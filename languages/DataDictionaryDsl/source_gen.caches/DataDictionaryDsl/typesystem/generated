@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-8ennqvoaytvxcdbtatyts3grdpn14ma">
+  <files names="TypesystemDescriptor.java:check_Exclusive_duplicate_NonTypesystemRule.java:check_Field_length_NonTypesystemRule.java:check_Field_start_with_NonTypesystemRule.java:check_Field_uniqueName_NonTypesystemRule.java:check_IAbstractStructure_Aggregation_NonTypesystemRule.java:check_IAbstractStructure_NonTypesystemRule.java:check_IAbstractStructure_min_one_element_NonTypesystemRule.java:check_NonExclusive_duplicate_NonTypesystemRule.java:check_Set_duplicate_NonTypesystemRule.java:check_Set_moreThanOneElement_NonTypesystemRule.java:check_StructureDefinition_NonTypesystemRule.java:quick_fix_more_than_one_element_in_set_QuickFix.java:quick_fix_unique_structure_name_QuickFix.java" />
+</product>
+
