@@ -9,7 +9,7 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import jetbrains.mps.smodel.runtime.ConceptPresentationBuilder;
 
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
-  private ConceptPresentation props_AbstractDomen;
+  private ConceptPresentation props_AbstractDomain;
   private ConceptPresentation props_Aggregation;
   private ConceptPresentation props_Boolean;
   private ConceptPresentation props_Constraint;
@@ -24,9 +24,9 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
   private ConceptPresentation props_ISpecialization;
   private ConceptPresentation props_Integer;
   private ConceptPresentation props_NonExclusive;
-  private ConceptPresentation props_PredefinedDomen;
-  private ConceptPresentation props_SemanticDomen;
-  private ConceptPresentation props_SemanticDomenDefinition;
+  private ConceptPresentation props_PredefinedDomain;
+  private ConceptPresentation props_SemanticDomain;
+  private ConceptPresentation props_SemanticDomainDefinition;
   private ConceptPresentation props_Set;
   private ConceptPresentation props_StructureDefinition;
   private ConceptPresentation props_Text;
@@ -36,12 +36,12 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
   public ConceptPresentation getDescriptor(SAbstractConcept c) {
     StructureAspectDescriptor structureDescriptor = (StructureAspectDescriptor) myLanguageRuntime.getAspect(jetbrains.mps.smodel.runtime.StructureAspectDescriptor.class);
     switch (structureDescriptor.internalIndex(c)) {
-      case LanguageConceptSwitch.AbstractDomen:
-        if (props_AbstractDomen == null) {
+      case LanguageConceptSwitch.AbstractDomain:
+        if (props_AbstractDomain == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
-          props_AbstractDomen = cpb.create();
+          props_AbstractDomain = cpb.create();
         }
-        return props_AbstractDomen;
+        return props_AbstractDomain;
       case LanguageConceptSwitch.Aggregation:
         if (props_Aggregation == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
@@ -138,26 +138,26 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
           props_NonExclusive = cpb.create();
         }
         return props_NonExclusive;
-      case LanguageConceptSwitch.PredefinedDomen:
-        if (props_PredefinedDomen == null) {
+      case LanguageConceptSwitch.PredefinedDomain:
+        if (props_PredefinedDomain == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
-          props_PredefinedDomen = cpb.create();
+          props_PredefinedDomain = cpb.create();
         }
-        return props_PredefinedDomen;
-      case LanguageConceptSwitch.SemanticDomen:
-        if (props_SemanticDomen == null) {
+        return props_PredefinedDomain;
+      case LanguageConceptSwitch.SemanticDomain:
+        if (props_SemanticDomain == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
           cpb.presentationByReference(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, 0x3ca44af6d3197fa2L, "refSemanticDefinition", "", "");
-          props_SemanticDomen = cpb.create();
+          props_SemanticDomain = cpb.create();
         }
-        return props_SemanticDomen;
-      case LanguageConceptSwitch.SemanticDomenDefinition:
-        if (props_SemanticDomenDefinition == null) {
+        return props_SemanticDomain;
+      case LanguageConceptSwitch.SemanticDomainDefinition:
+        if (props_SemanticDomainDefinition == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
           cpb.presentationByName();
-          props_SemanticDomenDefinition = cpb.create();
+          props_SemanticDomainDefinition = cpb.create();
         }
-        return props_SemanticDomenDefinition;
+        return props_SemanticDomainDefinition;
       case LanguageConceptSwitch.Set:
         if (props_Set == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();

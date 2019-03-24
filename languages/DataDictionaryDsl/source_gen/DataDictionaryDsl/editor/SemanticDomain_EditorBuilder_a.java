@@ -39,11 +39,11 @@ import jetbrains.mps.editor.runtime.style.StyleAttributes;
 import jetbrains.mps.nodeEditor.cellMenu.SPropertySubstituteInfo;
 import jetbrains.mps.lang.core.behavior.PropertyAttribute__BehaviorDescriptor;
 
-/*package*/ class SemanticDomen_EditorBuilder_a extends AbstractEditorBuilder {
+/*package*/ class SemanticDomain_EditorBuilder_a extends AbstractEditorBuilder {
   @NotNull
   private SNode myNode;
 
-  public SemanticDomen_EditorBuilder_a(@NotNull EditorContext context, @NotNull SNode node) {
+  public SemanticDomain_EditorBuilder_a(@NotNull EditorContext context, @NotNull SNode node) {
     super(context);
     myNode = node;
   }
@@ -60,7 +60,7 @@ import jetbrains.mps.lang.core.behavior.PropertyAttribute__BehaviorDescriptor;
 
   private EditorCell createCollection_0() {
     EditorCell_Collection editorCell = new EditorCell_Collection(getEditorContext(), myNode, new CellLayout_Indent());
-    editorCell.setCellId("Collection_v8j10z_a");
+    editorCell.setCellId("Collection_sk2xld_a");
     editorCell.setBig(true);
     setCellContext(editorCell);
     editorCell.addEditorCell(createRefCell_0());
@@ -72,7 +72,7 @@ import jetbrains.mps.lang.core.behavior.PropertyAttribute__BehaviorDescriptor;
       protected EditorCell createReferenceCell(final SNode targetNode) {
         EditorCell cell = getUpdateSession().updateReferencedNodeCell(new Computable<EditorCell>() {
           public EditorCell compute() {
-            return new SemanticDomen_EditorBuilder_a.Inline_Builder0(getEditorContext(), getNode(), targetNode).createCell();
+            return new SemanticDomain_EditorBuilder_a.Inline_Builder0(getEditorContext(), getNode(), targetNode).createCell();
           }
         }, targetNode, MetaAdapterFactory.getReferenceLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, 0x3ca44af6d3197fa2L, "refSemanticDefinition"));
         CellUtil.setupIDeprecatableStyles(targetNode, cell);

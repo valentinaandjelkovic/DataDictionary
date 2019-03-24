@@ -764,12 +764,12 @@
                 <node concept="3cpWsn" id="3M$iJrj7H88" role="3cpWs9">
                   <property role="TrG5h" value="semanticDomenDefinition" />
                   <node concept="3Tqbb2" id="3M$iJrj7H84" role="1tU5fm">
-                    <ref role="ehGHo" to="wigx:3M$iJrj6nYq" resolve="SemanticDomenDefinition" />
+                    <ref role="ehGHo" to="wigx:3M$iJrj6nYq" resolve="SemanticDomainDefinition" />
                   </node>
                   <node concept="2ShNRf" id="3M$iJrj7H91" role="33vP2m">
                     <node concept="3zrR0B" id="3M$iJrj7H8Z" role="2ShVmc">
                       <node concept="3Tqbb2" id="3M$iJrj7H90" role="3zrR0E">
-                        <ref role="ehGHo" to="wigx:3M$iJrj6nYq" resolve="SemanticDomenDefinition" />
+                        <ref role="ehGHo" to="wigx:3M$iJrj6nYq" resolve="SemanticDomainDefinition" />
                       </node>
                     </node>
                   </node>
@@ -780,7 +780,7 @@
                   <node concept="2ShNRf" id="3M$iJrj7IjN" role="37vLTx">
                     <node concept="3zrR0B" id="3M$iJrj7IhZ" role="2ShVmc">
                       <node concept="3Tqbb2" id="3M$iJrj7Ii0" role="3zrR0E">
-                        <ref role="ehGHo" to="wigx:1o7pFP3e60S" resolve="PredefinedDomen" />
+                        <ref role="ehGHo" to="wigx:1o7pFP3e60S" resolve="PredefinedDomain" />
                       </node>
                     </node>
                   </node>
@@ -1344,7 +1344,7 @@
     </node>
   </node>
   <node concept="24kQdi" id="1o7pFP3e8NH">
-    <ref role="1XX52x" to="wigx:1o7pFP3e60M" resolve="SemanticDomen" />
+    <ref role="1XX52x" to="wigx:1o7pFP3e60M" resolve="SemanticDomain" />
     <node concept="1iCGBv" id="3M$iJrj6o1B" role="2wV5jI">
       <ref role="1NtTu8" to="wigx:3M$iJrj6nYy" resolve="refSemanticDefinition" />
       <node concept="1sVBvm" id="3M$iJrj6o1C" role="1sWHZn">
@@ -1386,7 +1386,7 @@
     </node>
   </node>
   <node concept="24kQdi" id="3M$iJrj6nYI">
-    <ref role="1XX52x" to="wigx:3M$iJrj6nYq" resolve="SemanticDomenDefinition" />
+    <ref role="1XX52x" to="wigx:3M$iJrj6nYq" resolve="SemanticDomainDefinition" />
     <node concept="3EZMnI" id="3M$iJrj6nYN" role="2wV5jI">
       <node concept="3F0ifn" id="3M$iJrj6nZi" role="3EZMnx">
         <property role="3F0ifm" value="Name" />
@@ -1443,7 +1443,7 @@
             <node concept="3clFbS" id="3lJwQUVo_mD" role="2VODD2">
               <node concept="3clFbF" id="3lJwQUVo_vy" role="3cqZAp">
                 <node concept="Xl_RD" id="3lJwQUVo_vx" role="3clFbG">
-                  <property role="Xl_RC" value="Generate fields" />
+                  <property role="Xl_RC" value="Generate fields definition" />
                 </node>
               </node>
             </node>

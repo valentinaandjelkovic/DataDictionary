@@ -745,7 +745,7 @@
                     <node concept="2ShNRf" id="6O3$yg2Z75R" role="37vLTx">
                       <node concept="3zrR0B" id="6O3$yg2Z75P" role="2ShVmc">
                         <node concept="3Tqbb2" id="6O3$yg2Z75Q" role="3zrR0E">
-                          <ref role="ehGHo" to="wigx:1o7pFP3e60P" resolve="AbstractDomen" />
+                          <ref role="ehGHo" to="wigx:1o7pFP3e60P" resolve="AbstractDomain" />
                         </node>
                       </node>
                     </node>

@@ -7,8 +7,8 @@ import jetbrains.mps.openapi.editor.cells.EditorCell;
 import jetbrains.mps.openapi.editor.EditorContext;
 import org.jetbrains.mps.openapi.model.SNode;
 
-public class SemanticDomenDefinition_Editor extends DefaultNodeEditor {
+public class SemanticDomainDefinition_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
-    return new SemanticDomenDefinition_EditorBuilder_a(editorContext, node).createCell();
+    return new SemanticDomainDefinition_EditorBuilder_a(editorContext, node).createCell();
   }
 }

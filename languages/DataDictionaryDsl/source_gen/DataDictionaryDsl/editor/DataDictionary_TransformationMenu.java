@@ -128,8 +128,8 @@ public class DataDictionary_TransformationMenu extends TransformationMenuBase {
 
         @Override
         public void execute(@NotNull String pattern) {
-          SNode semanticDomenDefinition = SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, "DataDictionaryDsl.structure.SemanticDomenDefinition"));
-          SLinkOperations.setTarget(semanticDomenDefinition, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9dL, "domen"), SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386038L, "DataDictionaryDsl.structure.PredefinedDomen")));
+          SNode semanticDomenDefinition = SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, "DataDictionaryDsl.structure.SemanticDomainDefinition"));
+          SLinkOperations.setTarget(semanticDomenDefinition, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9dL, "domen"), SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386038L, "DataDictionaryDsl.structure.PredefinedDomain")));
           SLinkOperations.setTarget(semanticDomenDefinition, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9fL, "constraint"), SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x605f2c5169ea95c5L, "DataDictionaryDsl.structure.Constraint")));
           ListSequence.fromList(SLinkOperations.getChildren(_context.getNode(), MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x73ede05be9bfff49L, 0x3ca44af6d3198070L, "semanticDomenDefinitions"))).addElement(semanticDomenDefinition);
         }

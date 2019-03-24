@@ -36,11 +36,11 @@ import jetbrains.mps.nodeEditor.cellMenu.SEmptyContainmentSubstituteInfo;
 import jetbrains.mps.nodeEditor.cellMenu.SChildSubstituteInfo;
 import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
 
-/*package*/ class SemanticDomenDefinition_EditorBuilder_a extends AbstractEditorBuilder {
+/*package*/ class SemanticDomainDefinition_EditorBuilder_a extends AbstractEditorBuilder {
   @NotNull
   private SNode myNode;
 
-  public SemanticDomenDefinition_EditorBuilder_a(@NotNull EditorContext context, @NotNull SNode node) {
+  public SemanticDomainDefinition_EditorBuilder_a(@NotNull EditorContext context, @NotNull SNode node) {
     super(context);
     myNode = node;
   }
@@ -57,7 +57,7 @@ import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
 
   private EditorCell createCollection_0() {
     EditorCell_Collection editorCell = new EditorCell_Collection(getEditorContext(), myNode, new CellLayout_Horizontal());
-    editorCell.setCellId("Collection_560l2i_a");
+    editorCell.setCellId("Collection_7hnofb_a");
     editorCell.setBig(true);
     setCellContext(editorCell);
     editorCell.addEditorCell(createConstant_0());
@@ -75,13 +75,13 @@ import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
   }
   private EditorCell createConstant_0() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "Name");
-    editorCell.setCellId("Constant_560l2i_a0");
+    editorCell.setCellId("Constant_7hnofb_a0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createConstant_1() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, ":");
-    editorCell.setCellId("Constant_560l2i_b0");
+    editorCell.setCellId("Constant_7hnofb_b0");
     editorCell.setDefaultText("");
     return editorCell;
   }
@@ -114,31 +114,31 @@ import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
   }
   private EditorCell createConstant_2() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, ",");
-    editorCell.setCellId("Constant_560l2i_d0");
+    editorCell.setCellId("Constant_7hnofb_d0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createConstant_3() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "domen");
-    editorCell.setCellId("Constant_560l2i_e0");
+    editorCell.setCellId("Constant_7hnofb_e0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createConstant_4() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, ":");
-    editorCell.setCellId("Constant_560l2i_f0");
+    editorCell.setCellId("Constant_7hnofb_f0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createRefNode_0() {
-    SingleRoleCellProvider provider = new SemanticDomenDefinition_EditorBuilder_a.domenSingleRoleHandler_560l2i_g0(myNode, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9dL, "domen"), getEditorContext());
+    SingleRoleCellProvider provider = new SemanticDomainDefinition_EditorBuilder_a.domenSingleRoleHandler_7hnofb_g0(myNode, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9dL, "domen"), getEditorContext());
     return provider.createCell();
   }
-  private static class domenSingleRoleHandler_560l2i_g0 extends SingleRoleCellProvider {
+  private static class domenSingleRoleHandler_7hnofb_g0 extends SingleRoleCellProvider {
     @NotNull
     private SNode myNode;
 
-    public domenSingleRoleHandler_560l2i_g0(SNode ownerNode, SContainmentLink containmentLink, EditorContext context) {
+    public domenSingleRoleHandler_7hnofb_g0(SNode ownerNode, SContainmentLink containmentLink, EditorContext context) {
       super(containmentLink, context);
       myNode = ownerNode;
     }
@@ -187,31 +187,31 @@ import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
   }
   private EditorCell createConstant_5() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, ",");
-    editorCell.setCellId("Constant_560l2i_h0");
+    editorCell.setCellId("Constant_7hnofb_h0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createConstant_6() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "constraint");
-    editorCell.setCellId("Constant_560l2i_i0");
+    editorCell.setCellId("Constant_7hnofb_i0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createConstant_7() {
     EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, ":");
-    editorCell.setCellId("Constant_560l2i_j0");
+    editorCell.setCellId("Constant_7hnofb_j0");
     editorCell.setDefaultText("");
     return editorCell;
   }
   private EditorCell createRefNode_1() {
-    SingleRoleCellProvider provider = new SemanticDomenDefinition_EditorBuilder_a.constraintSingleRoleHandler_560l2i_k0(myNode, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9fL, "constraint"), getEditorContext());
+    SingleRoleCellProvider provider = new SemanticDomainDefinition_EditorBuilder_a.constraintSingleRoleHandler_7hnofb_k0(myNode, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x3ca44af6d3197f9aL, 0x3ca44af6d3197f9fL, "constraint"), getEditorContext());
     return provider.createCell();
   }
-  private static class constraintSingleRoleHandler_560l2i_k0 extends SingleRoleCellProvider {
+  private static class constraintSingleRoleHandler_7hnofb_k0 extends SingleRoleCellProvider {
     @NotNull
     private SNode myNode;
 
-    public constraintSingleRoleHandler_560l2i_k0(SNode ownerNode, SContainmentLink containmentLink, EditorContext context) {
+    public constraintSingleRoleHandler_7hnofb_k0(SNode ownerNode, SContainmentLink containmentLink, EditorContext context) {
       super(containmentLink, context);
       myNode = ownerNode;
     }

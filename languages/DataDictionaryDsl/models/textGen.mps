@@ -370,7 +370,7 @@
     </node>
   </node>
   <node concept="WtQ9Q" id="1oStdvpVh9_">
-    <ref role="WuzLi" to="wigx:3M$iJrj6nYq" resolve="SemanticDomenDefinition" />
+    <ref role="WuzLi" to="wigx:3M$iJrj6nYq" resolve="SemanticDomainDefinition" />
     <node concept="11bSqf" id="1oStdvpVh9A" role="11c4hB">
       <node concept="3clFbS" id="1oStdvpVh9B" role="2VODD2">
         <node concept="lc7rE" id="1oStdvpVhfq" role="3cqZAp">

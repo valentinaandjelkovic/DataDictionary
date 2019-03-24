@@ -70,7 +70,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.text.rt.TextGenDescriptorBase" />
   </dependency>
-  <dependency className="DataDictionaryDsl.textGen.SemanticDomenDefinition_TextGen">
+  <dependency className="DataDictionaryDsl.textGen.SemanticDomainDefinition_TextGen">
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations" />
@@ -108,7 +108,7 @@
     <classNode dependClassName="DataDictionaryDsl.textGen.Field_TextGen" />
     <classNode dependClassName="DataDictionaryDsl.textGen.Integer_TextGen" />
     <classNode dependClassName="DataDictionaryDsl.textGen.NonExclusive_TextGen" />
-    <classNode dependClassName="DataDictionaryDsl.textGen.SemanticDomenDefinition_TextGen" />
+    <classNode dependClassName="DataDictionaryDsl.textGen.SemanticDomainDefinition_TextGen" />
     <classNode dependClassName="DataDictionaryDsl.textGen.Set_TextGen" />
     <classNode dependClassName="DataDictionaryDsl.textGen.StructureDefinition_TextGen" />
     <classNode dependClassName="DataDictionaryDsl.textGen.Text_TextGen" />

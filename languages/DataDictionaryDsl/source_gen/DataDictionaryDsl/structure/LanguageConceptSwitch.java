@@ -9,7 +9,7 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 
 public final class LanguageConceptSwitch {
   private final LanguageConceptIndex myIndex;
-  public static final int AbstractDomen = 0;
+  public static final int AbstractDomain = 0;
   public static final int Aggregation = 1;
   public static final int Boolean = 2;
   public static final int Constraint = 3;
@@ -24,16 +24,16 @@ public final class LanguageConceptSwitch {
   public static final int ISpecialization = 12;
   public static final int Integer = 13;
   public static final int NonExclusive = 14;
-  public static final int PredefinedDomen = 15;
-  public static final int SemanticDomen = 16;
-  public static final int SemanticDomenDefinition = 17;
+  public static final int PredefinedDomain = 15;
+  public static final int SemanticDomain = 16;
+  public static final int SemanticDomainDefinition = 17;
   public static final int Set = 18;
   public static final int StructureDefinition = 19;
   public static final int Text = 20;
 
   public LanguageConceptSwitch() {
     LanguageConceptIndexBuilder builder = new LanguageConceptIndexBuilder(0x16d63821a9174aafL, 0xa85f305cd4a0013fL);
-    builder.put(0x160766bd43386035L, AbstractDomen);
+    builder.put(0x160766bd43386035L, AbstractDomain);
     builder.put(0x73ede05be9c14454L, Aggregation);
     builder.put(0x160766bd43386049L, Boolean);
     builder.put(0x605f2c5169ea95c5L, Constraint);
@@ -48,9 +48,9 @@ public final class LanguageConceptSwitch {
     builder.put(0x7171b68977873efL, ISpecialization);
     builder.put(0x160766bd43386039L, Integer);
     builder.put(0x73ede05be9c1bfe4L, NonExclusive);
-    builder.put(0x160766bd43386038L, PredefinedDomen);
-    builder.put(0x160766bd43386032L, SemanticDomen);
-    builder.put(0x3ca44af6d3197f9aL, SemanticDomenDefinition);
+    builder.put(0x160766bd43386038L, PredefinedDomain);
+    builder.put(0x160766bd43386032L, SemanticDomain);
+    builder.put(0x3ca44af6d3197f9aL, SemanticDomainDefinition);
     builder.put(0x73ede05be9c14455L, Set);
     builder.put(0x73ede05be9bfff46L, StructureDefinition);
     builder.put(0x160766bd4338604aL, Text);

@@ -21,13 +21,13 @@ import jetbrains.mps.smodel.ConceptDescendantsCache;
 import jetbrains.mps.lang.editor.menus.substitute.DefaultSubstituteMenuLookup;
 import jetbrains.mps.smodel.language.LanguageRegistry;
 
-public class SemanticDomen_SubstituteMenu extends SubstituteMenuBase {
+public class SemanticDomain_SubstituteMenu extends SubstituteMenuBase {
   @NotNull
   @Override
   protected List<MenuPart<SubstituteMenuItem, SubstituteMenuContext>> getParts(final SubstituteMenuContext _context) {
     List<MenuPart<SubstituteMenuItem, SubstituteMenuContext>> result = new ArrayList<MenuPart<SubstituteMenuItem, SubstituteMenuContext>>();
-    result.add(new ConstraintsFilteringSubstituteMenuPartDecorator(new SemanticDomen_SubstituteMenu.SMP_ReferenceScope_m55yh5_a(), MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, "DataDictionaryDsl.structure.SemanticDomen")));
-    result.add(new SemanticDomen_SubstituteMenu.SMP_Subconcepts_m55yh5_b());
+    result.add(new ConstraintsFilteringSubstituteMenuPartDecorator(new SemanticDomain_SubstituteMenu.SMP_ReferenceScope_qrk353_a(), MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, "DataDictionaryDsl.structure.SemanticDomain")));
+    result.add(new SemanticDomain_SubstituteMenu.SMP_Subconcepts_qrk353_b());
     return result;
   }
 
@@ -35,7 +35,7 @@ public class SemanticDomen_SubstituteMenu extends SubstituteMenuBase {
   @Override
   public List<SubstituteMenuItem> createMenuItems(@NotNull SubstituteMenuContext context) {
     context.getEditorMenuTrace().pushTraceInfo();
-    context.getEditorMenuTrace().setDescriptor(new EditorMenuDescriptorBase("default substitute menu for SemanticDomen. Generated from implicit smart reference attribute.", new SNodePointer("r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)", "1587350356734009394")));
+    context.getEditorMenuTrace().setDescriptor(new EditorMenuDescriptorBase("default substitute menu for SemanticDomain. Generated from implicit smart reference attribute.", new SNodePointer("r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)", "1587350356734009394")));
     try {
       return super.createMenuItems(context);
     } finally {
@@ -44,11 +44,11 @@ public class SemanticDomen_SubstituteMenu extends SubstituteMenuBase {
   }
 
 
-  public class SMP_ReferenceScope_m55yh5_a extends ReferenceScopeSubstituteMenuPart {
+  public class SMP_ReferenceScope_qrk353_a extends ReferenceScopeSubstituteMenuPart {
 
-    public SMP_ReferenceScope_m55yh5_a() {
+    public SMP_ReferenceScope_qrk353_a() {
       // that cast is needed for prevent the users from https://youtrack.jetbrains.com/issue/MPS-29051 
-      super((SAbstractConcept) MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, "DataDictionaryDsl.structure.SemanticDomen"), MetaAdapterFactory.getReferenceLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, 0x3ca44af6d3197fa2L, "refSemanticDefinition"));
+      super((SAbstractConcept) MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, "DataDictionaryDsl.structure.SemanticDomain"), MetaAdapterFactory.getReferenceLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, 0x3ca44af6d3197fa2L, "refSemanticDefinition"));
     }
     @NotNull
     @Override
@@ -63,15 +63,15 @@ public class SemanticDomen_SubstituteMenu extends SubstituteMenuBase {
     }
 
   }
-  public class SMP_Subconcepts_m55yh5_b extends ConceptMenusPart<SubstituteMenuItem, SubstituteMenuContext> {
+  public class SMP_Subconcepts_qrk353_b extends ConceptMenusPart<SubstituteMenuItem, SubstituteMenuContext> {
     protected Collection getConcepts(final SubstituteMenuContext _context) {
-      return ConceptDescendantsCache.getInstance().getDirectDescendants(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, "DataDictionaryDsl.structure.SemanticDomen"));
+      return ConceptDescendantsCache.getInstance().getDirectDescendants(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386032L, "DataDictionaryDsl.structure.SemanticDomain"));
     }
     @NotNull
     @Override
     public List<SubstituteMenuItem> createItems(SubstituteMenuContext context) {
       context.getEditorMenuTrace().pushTraceInfo();
-      context.getEditorMenuTrace().setDescriptor(new EditorMenuDescriptorBase("include menus for all the direct subconcepts of " + "SemanticDomen", null));
+      context.getEditorMenuTrace().setDescriptor(new EditorMenuDescriptorBase("include menus for all the direct subconcepts of " + "SemanticDomain", null));
       try {
         return super.createItems(context);
       } finally {

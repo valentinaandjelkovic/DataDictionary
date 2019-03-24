@@ -44,9 +44,9 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       case 10:
         return Collections.<ConceptEditor>singletonList(new NonExclusive_Editor());
       case 11:
-        return Collections.<ConceptEditor>singletonList(new SemanticDomen_Editor());
+        return Collections.<ConceptEditor>singletonList(new SemanticDomain_Editor());
       case 12:
-        return Collections.<ConceptEditor>singletonList(new SemanticDomenDefinition_Editor());
+        return Collections.<ConceptEditor>singletonList(new SemanticDomainDefinition_Editor());
       case 13:
         return Collections.<ConceptEditor>singletonList(new Set_Editor());
       case 14:
@@ -97,7 +97,7 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       case 0:
         return Collections.<SubstituteMenu>singletonList(new FieldDefinition_SubstituteMenu());
       case 1:
-        return Collections.<SubstituteMenu>singletonList(new SemanticDomen_SubstituteMenu());
+        return Collections.<SubstituteMenu>singletonList(new SemanticDomain_SubstituteMenu());
       default:
     }
     return Collections.<SubstituteMenu>emptyList();

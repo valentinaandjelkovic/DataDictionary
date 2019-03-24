@@ -15,7 +15,7 @@
     </file>
   </root>
   <root nodeRef="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194597">
-    <file name="SemanticDomenDefinition_TextGen.java">
+    <file name="SemanticDomainDefinition_TextGen.java">
       <node id="1601158137953194597" at="14,54,15,55" concept="5" />
       <node id="1601158137953198096" at="15,55,16,25" concept="1" />
       <node id="1601158137953194992" at="16,25,17,183" concept="1" />
@@ -31,11 +31,11 @@
       <scope id="1601158137953194597" at="13,0,24,0">
         <var name="ctx" id="1601158137953194597" />
       </scope>
-      <unit id="1601158137953194597" at="12,0,25,0" name="DataDictionaryDsl.textGen.SemanticDomenDefinition_TextGen" />
+      <unit id="1601158137953194597" at="12,0,25,0" name="DataDictionaryDsl.textGen.SemanticDomainDefinition_TextGen" />
     </file>
     <file name="TextGenAspectDescriptor.java">
-      <node id="1601158137953194597" at="43,57,44,53" concept="6" />
-      <scope id="1601158137953194597" at="43,57,44,53" />
+      <node id="1601158137953194597" at="43,58,44,54" concept="6" />
+      <scope id="1601158137953194597" at="43,58,44,54" />
     </file>
   </root>
   <root nodeRef="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928">

@@ -6,6 +6,7 @@
     <devkit ref="78434eb8-b0e5-444b-850d-e7c4ad2da9ab(jetbrains.mps.devkit.aspect.structure)" />
   </languages>
   <imports>
+    <import index="wigx" ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
@@ -86,7 +87,7 @@
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="semanticDomenDefinitions" />
       <property role="20lbJX" value="0..n" />
-      <ref role="20lvS9" node="3M$iJrj6nYq" resolve="SemanticDomenDefinition" />
+      <ref role="20lvS9" node="3M$iJrj6nYq" resolve="SemanticDomainDefinition" />
     </node>
     <node concept="PrWs8" id="7fHS5JDJZXa" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
@@ -176,7 +177,7 @@
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="domen" />
       <property role="20lbJX" value="1" />
-      <ref role="20lvS9" node="1o7pFP3e60P" resolve="AbstractDomen" />
+      <ref role="20lvS9" node="1o7pFP3e60P" resolve="AbstractDomain" />
     </node>
     <node concept="1TJgyj" id="61vb55DUDn8" role="1TKVEi">
       <property role="IQ2ns" value="6944317878609548744" />
@@ -188,52 +189,52 @@
   </node>
   <node concept="1TIwiD" id="1o7pFP3e60M">
     <property role="EcuMT" value="1587350356734009394" />
-    <property role="TrG5h" value="SemanticDomen" />
-    <ref role="1TJDcQ" node="1o7pFP3e60P" resolve="AbstractDomen" />
+    <property role="TrG5h" value="SemanticDomain" />
+    <ref role="1TJDcQ" node="1o7pFP3e60P" resolve="AbstractDomain" />
     <node concept="1TJgyj" id="3M$iJrj6nYy" role="1TKVEi">
       <property role="IQ2ns" value="4369699962420297634" />
       <property role="20lmBu" value="reference" />
       <property role="20kJfa" value="refSemanticDefinition" />
       <property role="20lbJX" value="1" />
-      <ref role="20lvS9" node="3M$iJrj6nYq" resolve="SemanticDomenDefinition" />
+      <ref role="20lvS9" node="3M$iJrj6nYq" resolve="SemanticDomainDefinition" />
     </node>
   </node>
   <node concept="1TIwiD" id="1o7pFP3e60P">
     <property role="EcuMT" value="1587350356734009397" />
-    <property role="TrG5h" value="AbstractDomen" />
+    <property role="TrG5h" value="AbstractDomain" />
     <property role="R5$K7" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="1o7pFP3e60S">
     <property role="EcuMT" value="1587350356734009400" />
-    <property role="TrG5h" value="PredefinedDomen" />
+    <property role="TrG5h" value="PredefinedDomain" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" node="1o7pFP3e60P" resolve="AbstractDomen" />
+    <ref role="1TJDcQ" node="1o7pFP3e60P" resolve="AbstractDomain" />
   </node>
   <node concept="1TIwiD" id="1o7pFP3e60T">
     <property role="EcuMT" value="1587350356734009401" />
     <property role="TrG5h" value="Integer" />
     <property role="34LRSv" value="Integer" />
-    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomen" />
+    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomain" />
   </node>
   <node concept="1TIwiD" id="1o7pFP3e618">
     <property role="EcuMT" value="1587350356734009416" />
     <property role="TrG5h" value="Double" />
     <property role="34LRSv" value="Double" />
-    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomen" />
+    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomain" />
   </node>
   <node concept="1TIwiD" id="1o7pFP3e619">
     <property role="EcuMT" value="1587350356734009417" />
     <property role="TrG5h" value="Boolean" />
     <property role="34LRSv" value="boolean" />
     <property role="R4oN_" value="&quot;true/false&quot;" />
-    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomen" />
+    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomain" />
   </node>
   <node concept="1TIwiD" id="1o7pFP3e61a">
     <property role="EcuMT" value="1587350356734009418" />
     <property role="TrG5h" value="Text" />
     <property role="34LRSv" value="Text" />
-    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomen" />
+    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomain" />
   </node>
   <node concept="1TIwiD" id="61vb55DUDn5">
     <property role="EcuMT" value="6944317878609548741" />
@@ -247,14 +248,14 @@
   </node>
   <node concept="1TIwiD" id="3M$iJrj6nYq">
     <property role="EcuMT" value="4369699962420297626" />
-    <property role="TrG5h" value="SemanticDomenDefinition" />
+    <property role="TrG5h" value="SemanticDomainDefinition" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="3M$iJrj6nYt" role="1TKVEi">
       <property role="IQ2ns" value="4369699962420297629" />
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="domen" />
       <property role="20lbJX" value="1" />
-      <ref role="20lvS9" node="1o7pFP3e60S" resolve="PredefinedDomen" />
+      <ref role="20lvS9" node="1o7pFP3e60S" resolve="PredefinedDomain" />
     </node>
     <node concept="1TJgyj" id="3M$iJrj6nYv" role="1TKVEi">
       <property role="IQ2ns" value="4369699962420297631" />
@@ -271,7 +272,7 @@
     <property role="EcuMT" value="3850440718039222160" />
     <property role="TrG5h" value="Date" />
     <property role="34LRSv" value="Date" />
-    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomen" />
+    <ref role="1TJDcQ" node="1o7pFP3e60S" resolve="PredefinedDomain" />
   </node>
 </model>
 

@@ -221,9 +221,9 @@
     <classNode dependClassName="DataDictionaryDsl.editor.Field_TransformationMenu" />
     <classNode dependClassName="DataDictionaryDsl.editor.Integer_Editor" />
     <classNode dependClassName="DataDictionaryDsl.editor.NonExclusive_Editor" />
-    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomenDefinition_Editor" />
-    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomen_Editor" />
-    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomen_SubstituteMenu" />
+    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomainDefinition_Editor" />
+    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomain_Editor" />
+    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomain_SubstituteMenu" />
     <classNode dependClassName="DataDictionaryDsl.editor.Set_Editor" />
     <classNode dependClassName="DataDictionaryDsl.editor.StructureDefinition_Editor" />
     <classNode dependClassName="DataDictionaryDsl.editor.Text_Editor" />
@@ -509,14 +509,14 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.editor.runtime.descriptor.AbstractEditorBuilder" />
   </dependency>
-  <dependency className="DataDictionaryDsl.editor.SemanticDomenDefinition_Editor">
-    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomenDefinition_EditorBuilder_a" />
+  <dependency className="DataDictionaryDsl.editor.SemanticDomainDefinition_Editor">
+    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomainDefinition_EditorBuilder_a" />
     <classNode dependClassName="jetbrains.mps.openapi.editor.EditorContext" />
     <classNode dependClassName="jetbrains.mps.openapi.editor.cells.EditorCell" />
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.nodeEditor.DefaultNodeEditor" />
   </dependency>
-  <dependency className="DataDictionaryDsl.editor.SemanticDomenDefinition_EditorBuilder_a">
+  <dependency className="DataDictionaryDsl.editor.SemanticDomainDefinition_EditorBuilder_a">
     <classNode dependClassName="java.lang.Iterable" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
@@ -554,14 +554,14 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.editor.runtime.descriptor.AbstractEditorBuilder" />
   </dependency>
-  <dependency className="DataDictionaryDsl.editor.SemanticDomen_Editor">
-    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a" />
+  <dependency className="DataDictionaryDsl.editor.SemanticDomain_Editor">
+    <classNode dependClassName="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a" />
     <classNode dependClassName="jetbrains.mps.openapi.editor.EditorContext" />
     <classNode dependClassName="jetbrains.mps.openapi.editor.cells.EditorCell" />
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.nodeEditor.DefaultNodeEditor" />
   </dependency>
-  <dependency className="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a">
+  <dependency className="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a">
     <classNode dependClassName="java.lang.Iterable" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
@@ -602,7 +602,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.editor.runtime.descriptor.AbstractEditorBuilder" />
   </dependency>
-  <dependency className="DataDictionaryDsl.editor.SemanticDomen_SubstituteMenu">
+  <dependency className="DataDictionaryDsl.editor.SemanticDomain_SubstituteMenu">
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.util.ArrayList" />
     <classNode dependClassName="java.util.Collection" />

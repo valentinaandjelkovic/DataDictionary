@@ -28,7 +28,7 @@
         <child id="1587350356734009428" name="fieldDefinitions" index="1lfKrD" />
       </concept>
       <concept id="1587350356734009401" name="DataDictionaryDsl.structure.Integer" flags="ng" index="1lfKq4" />
-      <concept id="1587350356734009394" name="DataDictionaryDsl.structure.SemanticDomen" flags="ng" index="1lfKqf">
+      <concept id="1587350356734009394" name="DataDictionaryDsl.structure.SemanticDomain" flags="ng" index="1lfKqf">
         <reference id="4369699962420297634" name="refSemanticDefinition" index="3JJjlk" />
       </concept>
       <concept id="1587350356734009386" name="DataDictionaryDsl.structure.FieldDefinition" flags="ng" index="1lfKqn">
@@ -36,10 +36,9 @@
         <child id="6944317878609548744" name="constraint" index="9HrAp" />
         <child id="1587350356734009419" name="domen" index="1lfKrQ" />
       </concept>
-      <concept id="1587350356734009417" name="DataDictionaryDsl.structure.Boolean" flags="ng" index="1lfKrO" />
       <concept id="1587350356734009416" name="DataDictionaryDsl.structure.Double" flags="ng" index="1lfKrP" />
       <concept id="1587350356734009418" name="DataDictionaryDsl.structure.Text" flags="ng" index="1lfKrR" />
-      <concept id="4369699962420297626" name="DataDictionaryDsl.structure.SemanticDomenDefinition" flags="ng" index="3JJjlG">
+      <concept id="4369699962420297626" name="DataDictionaryDsl.structure.SemanticDomainDefinition" flags="ng" index="3JJjlG">
         <child id="4369699962420297631" name="constraint" index="3JJjlD" />
         <child id="4369699962420297629" name="domen" index="3JJjlF" />
       </concept>
@@ -89,6 +88,19 @@
         </node>
         <node concept="2qbahC" id="1oStdvpXv8F" role="2grQy1">
           <property role="TrG5h" value="Weight" />
+        </node>
+        <node concept="2qbage" id="2VeiafXNPs_" role="2grQy1">
+          <node concept="2qbagf" id="2VeiafXNPsO" role="2grQy1">
+            <node concept="2qbahC" id="2VeiafXNPsQ" role="2grQy1">
+              <property role="TrG5h" value="Subject name" />
+            </node>
+            <node concept="2qbahC" id="2VeiafXNPsV" role="2grQy1">
+              <property role="TrG5h" value="Subject mark" />
+            </node>
+            <node concept="2qbahC" id="2VeiafXNPt3" role="2grQy1">
+              <property role="TrG5h" value="Date" />
+            </node>
+          </node>
         </node>
       </node>
       <node concept="1lfKqn" id="61vb55DWl9w" role="1lfKrD">
@@ -149,9 +161,11 @@
       </node>
       <node concept="1lfKqn" id="1oStdvpXv79" role="1lfKrD">
         <ref role="1lfKqm" node="1oStdvpXv6_" resolve="Date of birth" />
-        <node concept="2e0wjY" id="1oStdvpXv7E" role="1lfKrQ" />
+        <node concept="1lfKqf" id="2VeiafXNP2M" role="1lfKrQ">
+          <ref role="3JJjlk" node="WQb5oBwJTj" resolve="Birth date" />
+        </node>
         <node concept="9HrAk" id="1oStdvpXv7b" role="9HrAp">
-          <property role="9HrAn" value="before current date" />
+          <property role="9HrAn" value="not null" />
         </node>
       </node>
       <node concept="1lfKqn" id="1oStdvpXvaL" role="1lfKrD">
@@ -172,102 +186,32 @@
           <property role="9HrAn" value="/" />
         </node>
       </node>
-    </node>
-    <node concept="2qkxWt" id="7HgioOWK6$u" role="2qkxWn">
-      <property role="TrG5h" value="Stavke kataloga" />
-      <node concept="2grQyo" id="7HgioOWK6$t" role="2qb9EM">
-        <node concept="2qbahC" id="61vb55DUDlJ" role="2grQy1">
-          <property role="TrG5h" value="Redni broj" />
-        </node>
-        <node concept="2qbahC" id="61vb55DUDlO" role="2grQy1">
-          <property role="TrG5h" value="Sifra proizvoda" />
-        </node>
-        <node concept="2qbahC" id="61vb55DXeuC" role="2grQy1">
-          <property role="TrG5h" value="Jedinicna cena" />
-        </node>
-        <node concept="2qbahC" id="61vb55DXeuQ" role="2grQy1">
-          <property role="TrG5h" value="Naziv proizvoda" />
-        </node>
-        <node concept="2grQyo" id="61vb55DXevo" role="2grQy1">
-          <node concept="2qbahC" id="61vb55DXevy" role="2grQy1">
-            <property role="TrG5h" value="Opis proizvoda" />
-          </node>
-        </node>
-        <node concept="2qbahC" id="61vb55DXevU" role="2grQy1">
-          <property role="TrG5h" value="Slika" />
-        </node>
-        <node concept="2grQyo" id="61vb55DXewc" role="2grQy1">
-          <node concept="2qbahC" id="61vb55DXewm" role="2grQy1">
-            <property role="TrG5h" value="Cena" />
-          </node>
-        </node>
-        <node concept="2qbage" id="uo50TYLObe" role="2grQy1">
-          <node concept="2qbahC" id="uo50TYLObq" role="2grQy1">
-            <property role="TrG5h" value="JMBG" />
-          </node>
-        </node>
-      </node>
-      <node concept="1lfKqn" id="61vb55DWl9A" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DUDlJ" resolve="Redni broj" />
-        <node concept="1lfKrR" id="61vb55DXEWg" role="1lfKrQ" />
-        <node concept="9HrAk" id="61vb55DWl9C" role="9HrAp">
+      <node concept="1lfKqn" id="2VeiafXNPuL" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPsQ" resolve="Subject name" />
+        <node concept="1lfKrR" id="2VeiafXNPv$" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPuN" role="9HrAp">
           <property role="9HrAn" value="not null" />
         </node>
       </node>
-      <node concept="1lfKqn" id="61vb55DWl9D" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DUDlO" resolve="Sifra proizvoda" />
-        <node concept="9HrAk" id="61vb55DWl9F" role="9HrAp">
-          <property role="9HrAn" value="not null" />
+      <node concept="1lfKqn" id="2VeiafXNPuO" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPsV" resolve="Subject mark" />
+        <node concept="1lfKqf" id="2VeiafXNPvE" role="1lfKrQ">
+          <ref role="3JJjlk" node="3M$iJrj8Uft" resolve="Mark" />
         </node>
-        <node concept="1lfKrR" id="61vb55DXEXA" role="1lfKrQ" />
-      </node>
-      <node concept="1lfKqn" id="61vb55DXEV8" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DXeuC" resolve="Jedinicna cena" />
-        <node concept="1lfKrP" id="61vb55DXEXD" role="1lfKrQ" />
-        <node concept="9HrAk" id="61vb55DXEVa" role="9HrAp">
-          <property role="9HrAn" value="&gt;0" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="61vb55DXEVb" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DXeuQ" resolve="Naziv proizvoda" />
-        <node concept="1lfKrR" id="61vb55DXEXG" role="1lfKrQ" />
-        <node concept="9HrAk" id="61vb55DXEVd" role="9HrAp">
+        <node concept="9HrAk" id="2VeiafXNPuQ" role="9HrAp">
           <property role="9HrAn" value="not null" />
         </node>
       </node>
-      <node concept="1lfKqn" id="61vb55DXEVe" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DXevy" resolve="Opis proizvoda" />
-        <node concept="1lfKrR" id="61vb55DXEXJ" role="1lfKrQ" />
-        <node concept="9HrAk" id="61vb55DXEVg" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="61vb55DXEVh" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DXevU" resolve="Slika" />
-        <node concept="1lfKrR" id="3M$iJrj8UgR" role="1lfKrQ" />
-        <node concept="9HrAk" id="61vb55DXEVj" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="61vb55DXEVk" role="1lfKrD">
-        <ref role="1lfKqm" node="61vb55DXewm" resolve="Cena" />
-        <node concept="1lfKrP" id="61vb55DXEXP" role="1lfKrQ" />
-        <node concept="9HrAk" id="61vb55DXEVm" role="9HrAp">
-          <property role="9HrAn" value="&gt; 0" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="uo50TYLSVS" role="1lfKrD">
-        <ref role="1lfKqm" node="uo50TYLObq" resolve="JMBG" />
-        <node concept="1lfKqf" id="3M$iJrj8Ugm" role="1lfKrQ">
-          <ref role="3JJjlk" node="3M$iJrj8Ufh" resolve="Weight" />
-        </node>
-        <node concept="9HrAk" id="uo50TYLSVU" role="9HrAp">
+      <node concept="1lfKqn" id="2VeiafXNPuR" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPt3" resolve="Date" />
+        <node concept="2e0wjY" id="2VeiafXNPvB" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPuT" role="9HrAp">
           <property role="9HrAn" value="not null" />
         </node>
       </node>
     </node>
     <node concept="2qkxWt" id="uo50TYM2zi" role="2qkxWn">
-      <property role="TrG5h" value="Name" />
+      <property role="TrG5h" value="Example" />
       <node concept="2qb5YZ" id="uo50TYM2$O" role="2qb9EM">
         <node concept="2qbahC" id="uo50TYM2$R" role="2grQy1">
           <property role="TrG5h" value="Field-1" />
@@ -292,145 +236,16 @@
         <ref role="1lfKqm" node="3M$iJrjaJQ1" resolve="Field-2" />
         <node concept="1lfKq4" id="WQb5oByD4c" role="1lfKrQ" />
         <node concept="9HrAk" id="3lJwQUVpFfA" role="9HrAp">
-          <property role="9HrAn" value="aa" />
+          <property role="9HrAn" value="/" />
         </node>
       </node>
       <node concept="1lfKqn" id="3lJwQUVpFfh" role="1lfKrD">
         <ref role="1lfKqm" node="3lJwQUVpFf5" resolve="Field-3" />
-        <node concept="1lfKqf" id="3lJwQUVpFft" role="1lfKrQ">
-          <ref role="3JJjlk" node="3M$iJrj8Ug4" resolve="Povrsina" />
-        </node>
-        <node concept="9HrAk" id="3lJwQUVpFfz" role="9HrAp">
-          <property role="9HrAn" value="aaa" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="uo50TYM38c" role="2qkxWn">
-      <property role="TrG5h" value="aa" />
-      <node concept="2qbagf" id="uo50TYM39A" role="2qb9EM">
-        <node concept="2qbahC" id="3M$iJrjaJPZ" role="2grQy1">
-          <property role="TrG5h" value="Field-1" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="WQb5oBwJUB" role="1lfKrD">
-        <ref role="1lfKqm" node="3M$iJrjaJPZ" resolve="Field-1" />
-        <node concept="1lfKqf" id="3lJwQUVrotR" role="1lfKrQ">
+        <node concept="1lfKqf" id="2VeiafXNPpm" role="1lfKrQ">
           <ref role="3JJjlk" node="3M$iJrj8lWS" resolve="Height" />
         </node>
-        <node concept="9HrAk" id="WQb5oBwJUD" role="9HrAp">
+        <node concept="9HrAk" id="3lJwQUVpFfz" role="9HrAp">
           <property role="9HrAn" value="/" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="uo50TYM39D" role="2qkxWn">
-      <property role="TrG5h" value="New name - " />
-      <node concept="2qbagf" id="uo50TYM3b5" role="2qb9EM">
-        <node concept="2qbahC" id="3M$iJrjaJQ3" role="2grQy1">
-          <property role="TrG5h" value="Field-1" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="WQb5oBwJUE" role="1lfKrD">
-        <ref role="1lfKqm" node="3M$iJrjaJQ3" resolve="Field-1" />
-        <node concept="1lfKrP" id="WQb5oByD49" role="1lfKrQ" />
-        <node concept="9HrAk" id="WQb5oBwJUG" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="uo50TYOiI2" role="2qkxWn">
-      <property role="TrG5h" value="Name6" />
-      <node concept="2grQyo" id="uo50TYOiJw" role="2qb9EM">
-        <node concept="2qbahC" id="uo50TYOiL9" role="2grQy1">
-          <property role="TrG5h" value="Field-1" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="3M$iJrj9Yeh" role="1lfKrD">
-        <ref role="1lfKqm" node="uo50TYOiL9" resolve="Field-1" />
-        <node concept="1lfKqf" id="3M$iJrj9YeD" role="1lfKrQ">
-          <ref role="3JJjlk" node="3M$iJrj8Uft" resolve="Prosek" />
-        </node>
-        <node concept="9HrAk" id="3M$iJrj9Yej" role="9HrAp">
-          <property role="9HrAn" value="not null" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="uo50TYOiJ_" role="2qkxWn">
-      <property role="TrG5h" value="Structure 10" />
-      <node concept="2qbagf" id="uo50TYOiL6" role="2qb9EM">
-        <node concept="2qbahC" id="3M$iJrjaJQ5" role="2grQy1">
-          <property role="TrG5h" value="Field-1" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="WQb5oBwJUK" role="1lfKrD">
-        <ref role="1lfKqm" node="3M$iJrjaJQ5" resolve="Field-1" />
-        <node concept="1lfKrR" id="WQb5oByD46" role="1lfKrQ" />
-        <node concept="9HrAk" id="WQb5oBwJUM" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="uo50TYPO9d" role="2qkxWn">
-      <property role="TrG5h" value="Structure 9" />
-      <node concept="2qbagf" id="uo50TYPOaK" role="2qb9EM">
-        <node concept="2qbahC" id="3M$iJrjaJQ7" role="2grQy1">
-          <property role="TrG5h" value="Field-1" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="WQb5oBwJUN" role="1lfKrD">
-        <ref role="1lfKqm" node="3M$iJrjaJQ7" resolve="Field-1" />
-        <node concept="1lfKrO" id="WQb5oByD43" role="1lfKrQ" />
-        <node concept="9HrAk" id="WQb5oBwJUP" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="3M$iJrj8UgU" role="2qkxWn">
-      <property role="TrG5h" value="Structure 11" />
-      <node concept="2qbagf" id="3M$iJrj8Uiv" role="2qb9EM">
-        <node concept="2qbage" id="3M$iJrj9Ych" role="2grQy1">
-          <node concept="2qbagf" id="3M$iJrj9Ycs" role="2grQy1">
-            <node concept="2qbahC" id="3M$iJrj9Ycj" role="2grQy1">
-              <property role="TrG5h" value="Field-1" />
-            </node>
-            <node concept="2qbahC" id="3M$iJrj9Yco" role="2grQy1">
-              <property role="TrG5h" value="Field-2" />
-            </node>
-          </node>
-        </node>
-      </node>
-      <node concept="1lfKqn" id="3M$iJrj9Yek" role="1lfKrD">
-        <ref role="1lfKqm" node="3M$iJrj9Ycj" resolve="Field-1" />
-        <node concept="1lfKrR" id="3M$iJrj9YeG" role="1lfKrQ" />
-        <node concept="9HrAk" id="3M$iJrj9YeJ" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-      <node concept="1lfKqn" id="3M$iJrj9Yen" role="1lfKrD">
-        <ref role="1lfKqm" node="3M$iJrj9Yco" resolve="Field-2" />
-        <node concept="1lfKrR" id="3M$iJrj9YeM" role="1lfKrQ" />
-        <node concept="9HrAk" id="3M$iJrj9Yep" role="9HrAp">
-          <property role="9HrAn" value="/" />
-        </node>
-      </node>
-    </node>
-    <node concept="2qkxWt" id="3M$iJrjfrwg" role="2qkxWn">
-      <property role="TrG5h" value="Name10" />
-      <node concept="2qbagf" id="3M$iJrjfry2" role="2qb9EM">
-        <node concept="2qbahC" id="3M$iJrjfry7" role="2grQy1">
-          <property role="TrG5h" value="Field-1" />
-        </node>
-        <node concept="2qbahC" id="3M$iJrjfryg" role="2grQy1">
-          <property role="TrG5h" value="Field-3" />
-        </node>
-        <node concept="2qbage" id="3lJwQUVqPUK" role="2grQy1">
-          <node concept="2qbagf" id="3lJwQUVrotf" role="2grQy1">
-            <node concept="2qbahC" id="3lJwQUVrot6" role="2grQy1">
-              <property role="TrG5h" value="Field-3" />
-            </node>
-            <node concept="2qbahC" id="3lJwQUVrotb" role="2grQy1">
-              <property role="TrG5h" value="Field-4" />
-            </node>
-          </node>
         </node>
       </node>
     </node>
@@ -449,24 +264,84 @@
       </node>
     </node>
     <node concept="3JJjlG" id="3M$iJrj8Uft" role="3JJsE6">
-      <property role="TrG5h" value="Prosek" />
+      <property role="TrG5h" value="Mark" />
       <node concept="1lfKrP" id="3M$iJrj8UfD" role="3JJjlF" />
       <node concept="9HrAk" id="3M$iJrj8Ufv" role="3JJjlD">
-        <property role="9HrAn" value="&gt;0" />
-      </node>
-    </node>
-    <node concept="3JJjlG" id="3M$iJrj8Ug4" role="3JJsE6">
-      <property role="TrG5h" value="Povrsina" />
-      <node concept="1lfKrP" id="3M$iJrj8Ugj" role="3JJjlF" />
-      <node concept="9HrAk" id="3M$iJrj8Ug6" role="3JJjlD">
-        <property role="9HrAn" value="/" />
+        <property role="9HrAn" value="between 5 and 10" />
       </node>
     </node>
     <node concept="3JJjlG" id="WQb5oBwJTj" role="3JJsE6">
-      <property role="TrG5h" value="Test" />
-      <node concept="1lfKrR" id="WQb5oBwJT_" role="3JJjlF" />
+      <property role="TrG5h" value="Birth date" />
+      <node concept="2e0wjY" id="2VeiafXNP2J" role="3JJjlF" />
       <node concept="9HrAk" id="WQb5oBwJTC" role="3JJjlD">
-        <property role="9HrAn" value="/" />
+        <property role="9HrAn" value="before current date" />
+      </node>
+    </node>
+    <node concept="2qkxWt" id="2VeiafXNPaT" role="2qkxWn">
+      <property role="TrG5h" value="OrderItem" />
+      <node concept="2qbagf" id="2VeiafXNPaS" role="2qb9EM">
+        <node concept="2qbahC" id="2VeiafXNPjG" role="2grQy1">
+          <property role="TrG5h" value="Number" />
+        </node>
+        <node concept="2qbahC" id="2VeiafXNPjL" role="2grQy1">
+          <property role="TrG5h" value="Product name" />
+        </node>
+        <node concept="2qbahC" id="2VeiafXNPjT" role="2grQy1">
+          <property role="TrG5h" value="Unit price" />
+        </node>
+        <node concept="2qbahC" id="2VeiafXNPk3" role="2grQy1">
+          <property role="TrG5h" value="Quantity" />
+        </node>
+        <node concept="2qbahC" id="2VeiafXNPlH" role="2grQy1">
+          <property role="TrG5h" value="Price" />
+        </node>
+        <node concept="2grQyo" id="2VeiafXNPkf" role="2grQy1">
+          <node concept="2qbahC" id="2VeiafXNPkm" role="2grQy1">
+            <property role="TrG5h" value="Product description" />
+          </node>
+        </node>
+      </node>
+      <node concept="1lfKqn" id="2VeiafXNPkS" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPjG" resolve="Number" />
+        <node concept="1lfKrR" id="2VeiafXNPlm" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPkU" role="9HrAp">
+          <property role="9HrAn" value="not null" />
+        </node>
+      </node>
+      <node concept="1lfKqn" id="2VeiafXNPkV" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPjL" resolve="Product name" />
+        <node concept="1lfKrR" id="2VeiafXNPlp" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPkX" role="9HrAp">
+          <property role="9HrAn" value="/" />
+        </node>
+      </node>
+      <node concept="1lfKqn" id="2VeiafXNPkY" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPjT" resolve="Unit price" />
+        <node concept="1lfKrP" id="2VeiafXNPls" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPl0" role="9HrAp">
+          <property role="9HrAn" value="&gt;0 " />
+        </node>
+      </node>
+      <node concept="1lfKqn" id="2VeiafXNPl1" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPk3" resolve="Quantity" />
+        <node concept="1lfKrP" id="2VeiafXNPlv" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPl3" role="9HrAp">
+          <property role="9HrAn" value="&gt;0" />
+        </node>
+      </node>
+      <node concept="1lfKqn" id="2VeiafXNPl4" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPkm" resolve="Product description" />
+        <node concept="1lfKrR" id="2VeiafXNPly" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPl6" role="9HrAp">
+          <property role="9HrAn" value="/" />
+        </node>
+      </node>
+      <node concept="1lfKqn" id="2VeiafXNPm2" role="1lfKrD">
+        <ref role="1lfKqm" node="2VeiafXNPlH" resolve="Price" />
+        <node concept="1lfKrP" id="2VeiafXNPmq" role="1lfKrQ" />
+        <node concept="9HrAk" id="2VeiafXNPm4" role="9HrAp">
+          <property role="9HrAn" value="Unit price * Quantity" />
+        </node>
       </node>
     </node>
   </node>

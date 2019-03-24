@@ -201,7 +201,7 @@
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="false" />
-      <property role="TrG5h" value="props_AbstractDomen" />
+      <property role="TrG5h" value="props_AbstractDomain" />
       <node concept="3uibUv" id="q" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptPresentation" resolve="ConceptPresentation" />
       </node>
@@ -351,7 +351,7 @@
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="false" />
-      <property role="TrG5h" value="props_PredefinedDomen" />
+      <property role="TrG5h" value="props_PredefinedDomain" />
       <node concept="3uibUv" id="S" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptPresentation" resolve="ConceptPresentation" />
       </node>
@@ -361,7 +361,7 @@
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="false" />
-      <property role="TrG5h" value="props_SemanticDomen" />
+      <property role="TrG5h" value="props_SemanticDomain" />
       <node concept="3uibUv" id="U" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptPresentation" resolve="ConceptPresentation" />
       </node>
@@ -371,7 +371,7 @@
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="false" />
-      <property role="TrG5h" value="props_SemanticDomenDefinition" />
+      <property role="TrG5h" value="props_SemanticDomainDefinition" />
       <node concept="3uibUv" id="W" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptPresentation" resolve="ConceptPresentation" />
       </node>
@@ -486,7 +486,7 @@
                         </node>
                       </node>
                       <node concept="37vLTw" id="1X" role="37vLTJ">
-                        <ref role="3cqZAo" node="2" resolve="props_AbstractDomen" />
+                        <ref role="3cqZAo" node="2" resolve="props_AbstractDomain" />
                       </node>
                     </node>
                   </node>
@@ -494,19 +494,19 @@
                 <node concept="3clFbC" id="1O" role="3clFbw">
                   <node concept="10Nm6u" id="20" role="3uHU7w" />
                   <node concept="37vLTw" id="21" role="3uHU7B">
-                    <ref role="3cqZAo" node="2" resolve="props_AbstractDomen" />
+                    <ref role="3cqZAo" node="2" resolve="props_AbstractDomain" />
                   </node>
                 </node>
               </node>
               <node concept="3cpWs6" id="1M" role="3cqZAp">
                 <node concept="37vLTw" id="22" role="3cqZAk">
-                  <ref role="3cqZAo" node="2" resolve="props_AbstractDomen" />
+                  <ref role="3cqZAo" node="2" resolve="props_AbstractDomain" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="1K" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="ba" resolve="AbstractDomen" />
+              <ref role="3cqZAo" node="ba" resolve="AbstractDomain" />
             </node>
           </node>
           <node concept="3KbdKl" id="1o" role="3KbHQx">
@@ -1549,7 +1549,7 @@
                         </node>
                       </node>
                       <node concept="37vLTw" id="8t" role="37vLTJ">
-                        <ref role="3cqZAo" node="h" resolve="props_PredefinedDomen" />
+                        <ref role="3cqZAo" node="h" resolve="props_PredefinedDomain" />
                       </node>
                     </node>
                   </node>
@@ -1557,19 +1557,19 @@
                 <node concept="3clFbC" id="8k" role="3clFbw">
                   <node concept="10Nm6u" id="8w" role="3uHU7w" />
                   <node concept="37vLTw" id="8x" role="3uHU7B">
-                    <ref role="3cqZAo" node="h" resolve="props_PredefinedDomen" />
+                    <ref role="3cqZAo" node="h" resolve="props_PredefinedDomain" />
                   </node>
                 </node>
               </node>
               <node concept="3cpWs6" id="8i" role="3cqZAp">
                 <node concept="37vLTw" id="8y" role="3cqZAk">
-                  <ref role="3cqZAo" node="h" resolve="props_PredefinedDomen" />
+                  <ref role="3cqZAo" node="h" resolve="props_PredefinedDomain" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="8g" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="bp" resolve="PredefinedDomen" />
+              <ref role="3cqZAo" node="bp" resolve="PredefinedDomain" />
             </node>
           </node>
           <node concept="3KbdKl" id="1B" role="3KbHQx">
@@ -1671,7 +1671,7 @@
                         </node>
                       </node>
                       <node concept="37vLTw" id="9c" role="37vLTJ">
-                        <ref role="3cqZAo" node="i" resolve="props_SemanticDomen" />
+                        <ref role="3cqZAo" node="i" resolve="props_SemanticDomain" />
                       </node>
                     </node>
                   </node>
@@ -1679,19 +1679,19 @@
                 <node concept="3clFbC" id="8C" role="3clFbw">
                   <node concept="10Nm6u" id="9f" role="3uHU7w" />
                   <node concept="37vLTw" id="9g" role="3uHU7B">
-                    <ref role="3cqZAo" node="i" resolve="props_SemanticDomen" />
+                    <ref role="3cqZAo" node="i" resolve="props_SemanticDomain" />
                   </node>
                 </node>
               </node>
               <node concept="3cpWs6" id="8A" role="3cqZAp">
                 <node concept="37vLTw" id="9h" role="3cqZAk">
-                  <ref role="3cqZAo" node="i" resolve="props_SemanticDomen" />
+                  <ref role="3cqZAo" node="i" resolve="props_SemanticDomain" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="8$" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="bq" resolve="SemanticDomen" />
+              <ref role="3cqZAo" node="bq" resolve="SemanticDomain" />
             </node>
           </node>
           <node concept="3KbdKl" id="1C" role="3KbHQx">
@@ -1737,7 +1737,7 @@
                         </node>
                       </node>
                       <node concept="37vLTw" id="9A" role="37vLTJ">
-                        <ref role="3cqZAo" node="j" resolve="props_SemanticDomenDefinition" />
+                        <ref role="3cqZAo" node="j" resolve="props_SemanticDomainDefinition" />
                       </node>
                     </node>
                   </node>
@@ -1745,19 +1745,19 @@
                 <node concept="3clFbC" id="9n" role="3clFbw">
                   <node concept="10Nm6u" id="9D" role="3uHU7w" />
                   <node concept="37vLTw" id="9E" role="3uHU7B">
-                    <ref role="3cqZAo" node="j" resolve="props_SemanticDomenDefinition" />
+                    <ref role="3cqZAo" node="j" resolve="props_SemanticDomainDefinition" />
                   </node>
                 </node>
               </node>
               <node concept="3cpWs6" id="9l" role="3cqZAp">
                 <node concept="37vLTw" id="9F" role="3cqZAk">
-                  <ref role="3cqZAo" node="j" resolve="props_SemanticDomenDefinition" />
+                  <ref role="3cqZAo" node="j" resolve="props_SemanticDomainDefinition" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="9j" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="br" resolve="SemanticDomenDefinition" />
+              <ref role="3cqZAo" node="br" resolve="SemanticDomainDefinition" />
             </node>
           </node>
           <node concept="3KbdKl" id="1D" role="3KbHQx">
@@ -2027,7 +2027,7 @@
       <property role="2dlcS1" value="false" />
       <property role="2dld4O" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="AbstractDomen" />
+      <property role="TrG5h" value="AbstractDomain" />
       <node concept="3Tm1VV" id="bC" role="1B3o_S" />
       <node concept="10Oyi0" id="bD" role="1tU5fm" />
       <node concept="3cmrfG" id="bE" role="33vP2m">
@@ -2192,7 +2192,7 @@
       <property role="2dlcS1" value="false" />
       <property role="2dld4O" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="PredefinedDomen" />
+      <property role="TrG5h" value="PredefinedDomain" />
       <node concept="3Tm1VV" id="cl" role="1B3o_S" />
       <node concept="10Oyi0" id="cm" role="1tU5fm" />
       <node concept="3cmrfG" id="cn" role="33vP2m">
@@ -2203,7 +2203,7 @@
       <property role="2dlcS1" value="false" />
       <property role="2dld4O" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="SemanticDomen" />
+      <property role="TrG5h" value="SemanticDomain" />
       <node concept="3Tm1VV" id="co" role="1B3o_S" />
       <node concept="10Oyi0" id="cp" role="1tU5fm" />
       <node concept="3cmrfG" id="cq" role="33vP2m">
@@ -2214,7 +2214,7 @@
       <property role="2dlcS1" value="false" />
       <property role="2dld4O" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="SemanticDomenDefinition" />
+      <property role="TrG5h" value="SemanticDomainDefinition" />
       <node concept="3Tm1VV" id="cr" role="1B3o_S" />
       <node concept="10Oyi0" id="cs" role="1tU5fm" />
       <node concept="3cmrfG" id="ct" role="33vP2m">
@@ -2289,7 +2289,7 @@
                 <property role="1adDun" value="0x160766bd43386035L" />
               </node>
               <node concept="37vLTw" id="db" role="37wK5m">
-                <ref role="3cqZAo" node="ba" resolve="AbstractDomen" />
+                <ref role="3cqZAo" node="ba" resolve="AbstractDomain" />
               </node>
             </node>
           </node>
@@ -2529,7 +2529,7 @@
                 <property role="1adDun" value="0x160766bd43386038L" />
               </node>
               <node concept="37vLTw" id="em" role="37wK5m">
-                <ref role="3cqZAo" node="bp" resolve="PredefinedDomen" />
+                <ref role="3cqZAo" node="bp" resolve="PredefinedDomain" />
               </node>
             </node>
           </node>
@@ -2545,7 +2545,7 @@
                 <property role="1adDun" value="0x160766bd43386032L" />
               </node>
               <node concept="37vLTw" id="er" role="37wK5m">
-                <ref role="3cqZAo" node="bq" resolve="SemanticDomen" />
+                <ref role="3cqZAo" node="bq" resolve="SemanticDomain" />
               </node>
             </node>
           </node>
@@ -2561,7 +2561,7 @@
                 <property role="1adDun" value="0x3ca44af6d3197f9aL" />
               </node>
               <node concept="37vLTw" id="ew" role="37wK5m">
-                <ref role="3cqZAo" node="br" resolve="SemanticDomenDefinition" />
+                <ref role="3cqZAo" node="br" resolve="SemanticDomainDefinition" />
               </node>
             </node>
           </node>
@@ -2695,12 +2695,12 @@
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="myConceptAbstractDomen" />
+      <property role="TrG5h" value="myConceptAbstractDomain" />
       <node concept="3uibUv" id="g1" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptDescriptor" resolve="ConceptDescriptor" />
       </node>
       <node concept="1rXfSq" id="g2" role="33vP2m">
-        <ref role="37wK5l" node="fG" resolve="createDescriptorForAbstractDomen" />
+        <ref role="37wK5l" node="fG" resolve="createDescriptorForAbstractDomain" />
       </node>
     </node>
     <node concept="312cEg" id="fb" role="jymVt">
@@ -2875,36 +2875,36 @@
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="myConceptPredefinedDomen" />
+      <property role="TrG5h" value="myConceptPredefinedDomain" />
       <node concept="3uibUv" id="gv" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptDescriptor" resolve="ConceptDescriptor" />
       </node>
       <node concept="1rXfSq" id="gw" role="33vP2m">
-        <ref role="37wK5l" node="fV" resolve="createDescriptorForPredefinedDomen" />
+        <ref role="37wK5l" node="fV" resolve="createDescriptorForPredefinedDomain" />
       </node>
     </node>
     <node concept="312cEg" id="fq" role="jymVt">
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="myConceptSemanticDomen" />
+      <property role="TrG5h" value="myConceptSemanticDomain" />
       <node concept="3uibUv" id="gx" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptDescriptor" resolve="ConceptDescriptor" />
       </node>
       <node concept="1rXfSq" id="gy" role="33vP2m">
-        <ref role="37wK5l" node="fW" resolve="createDescriptorForSemanticDomen" />
+        <ref role="37wK5l" node="fW" resolve="createDescriptorForSemanticDomain" />
       </node>
     </node>
     <node concept="312cEg" id="fr" role="jymVt">
       <property role="eg7rD" value="false" />
       <property role="34CwA1" value="false" />
       <property role="3TUv4t" value="true" />
-      <property role="TrG5h" value="myConceptSemanticDomenDefinition" />
+      <property role="TrG5h" value="myConceptSemanticDomainDefinition" />
       <node concept="3uibUv" id="gz" role="1tU5fm">
         <ref role="3uigEE" to="ze1i:~ConceptDescriptor" resolve="ConceptDescriptor" />
       </node>
       <node concept="1rXfSq" id="g$" role="33vP2m">
-        <ref role="37wK5l" node="fX" resolve="createDescriptorForSemanticDomenDefinition" />
+        <ref role="37wK5l" node="fX" resolve="createDescriptorForSemanticDomainDefinition" />
       </node>
     </node>
     <node concept="312cEg" id="fs" role="jymVt">
@@ -2983,7 +2983,7 @@
             <ref role="1Pybhc" to="33ny:~Arrays" resolve="Arrays" />
             <ref role="37wK5l" to="33ny:~Arrays.asList(java.lang.Object...):java.util.List" resolve="asList" />
             <node concept="37vLTw" id="gV" role="37wK5m">
-              <ref role="3cqZAo" node="fa" resolve="myConceptAbstractDomen" />
+              <ref role="3cqZAo" node="fa" resolve="myConceptAbstractDomain" />
             </node>
             <node concept="37vLTw" id="gW" role="37wK5m">
               <ref role="3cqZAo" node="fb" resolve="myConceptAggregation" />
@@ -3028,13 +3028,13 @@
               <ref role="3cqZAo" node="fo" resolve="myConceptNonExclusive" />
             </node>
             <node concept="37vLTw" id="ha" role="37wK5m">
-              <ref role="3cqZAo" node="fp" resolve="myConceptPredefinedDomen" />
+              <ref role="3cqZAo" node="fp" resolve="myConceptPredefinedDomain" />
             </node>
             <node concept="37vLTw" id="hb" role="37wK5m">
-              <ref role="3cqZAo" node="fq" resolve="myConceptSemanticDomen" />
+              <ref role="3cqZAo" node="fq" resolve="myConceptSemanticDomain" />
             </node>
             <node concept="37vLTw" id="hc" role="37wK5m">
-              <ref role="3cqZAo" node="fr" resolve="myConceptSemanticDomenDefinition" />
+              <ref role="3cqZAo" node="fr" resolve="myConceptSemanticDomainDefinition" />
             </node>
             <node concept="37vLTw" id="hd" role="37wK5m">
               <ref role="3cqZAo" node="fs" resolve="myConceptSet" />
@@ -3078,13 +3078,13 @@
             <node concept="3clFbS" id="hK" role="3Kbo56">
               <node concept="3cpWs6" id="hM" role="3cqZAp">
                 <node concept="37vLTw" id="hN" role="3cqZAk">
-                  <ref role="3cqZAo" node="fa" resolve="myConceptAbstractDomen" />
+                  <ref role="3cqZAo" node="fa" resolve="myConceptAbstractDomain" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="hL" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="ba" resolve="AbstractDomen" />
+              <ref role="3cqZAo" node="ba" resolve="AbstractDomain" />
             </node>
           </node>
           <node concept="3KbdKl" id="hq" role="3KbHQx">
@@ -3273,39 +3273,39 @@
             <node concept="3clFbS" id="iG" role="3Kbo56">
               <node concept="3cpWs6" id="iI" role="3cqZAp">
                 <node concept="37vLTw" id="iJ" role="3cqZAk">
-                  <ref role="3cqZAo" node="fp" resolve="myConceptPredefinedDomen" />
+                  <ref role="3cqZAo" node="fp" resolve="myConceptPredefinedDomain" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="iH" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="bp" resolve="PredefinedDomen" />
+              <ref role="3cqZAo" node="bp" resolve="PredefinedDomain" />
             </node>
           </node>
           <node concept="3KbdKl" id="hD" role="3KbHQx">
             <node concept="3clFbS" id="iK" role="3Kbo56">
               <node concept="3cpWs6" id="iM" role="3cqZAp">
                 <node concept="37vLTw" id="iN" role="3cqZAk">
-                  <ref role="3cqZAo" node="fq" resolve="myConceptSemanticDomen" />
+                  <ref role="3cqZAo" node="fq" resolve="myConceptSemanticDomain" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="iL" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="bq" resolve="SemanticDomen" />
+              <ref role="3cqZAo" node="bq" resolve="SemanticDomain" />
             </node>
           </node>
           <node concept="3KbdKl" id="hE" role="3KbHQx">
             <node concept="3clFbS" id="iO" role="3Kbo56">
               <node concept="3cpWs6" id="iQ" role="3cqZAp">
                 <node concept="37vLTw" id="iR" role="3cqZAk">
-                  <ref role="3cqZAo" node="fr" resolve="myConceptSemanticDomenDefinition" />
+                  <ref role="3cqZAo" node="fr" resolve="myConceptSemanticDomainDefinition" />
                 </node>
               </node>
             </node>
             <node concept="10M0yZ" id="iP" role="3Kbmr1">
               <ref role="1PxDUh" node="b8" resolve="LanguageConceptSwitch" />
-              <ref role="3cqZAo" node="br" resolve="SemanticDomenDefinition" />
+              <ref role="3cqZAo" node="br" resolve="SemanticDomainDefinition" />
             </node>
           </node>
           <node concept="3KbdKl" id="hF" role="3KbHQx">
@@ -3428,7 +3428,7 @@
       <property role="od$2w" value="false" />
       <property role="DiZV1" value="false" />
       <property role="2aFKle" value="false" />
-      <property role="TrG5h" value="createDescriptorForAbstractDomen" />
+      <property role="TrG5h" value="createDescriptorForAbstractDomain" />
       <node concept="3clFbS" id="jp" role="3clF47">
         <node concept="3cpWs8" id="js" role="3cqZAp">
           <node concept="3cpWsn" id="jx" role="3cpWs9">
@@ -3443,7 +3443,7 @@
                   <property role="Xl_RC" value="DataDictionaryDsl" />
                 </node>
                 <node concept="Xl_RD" id="jA" role="37wK5m">
-                  <property role="Xl_RC" value="AbstractDomen" />
+                  <property role="Xl_RC" value="AbstractDomain" />
                 </node>
                 <node concept="1adDum" id="jB" role="37wK5m">
                   <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -3678,7 +3678,7 @@
             <node concept="liA8E" id="kZ" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="l0" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomain" />
               </node>
               <node concept="1adDum" id="l1" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -4173,7 +4173,7 @@
             <node concept="liA8E" id="nT" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="nU" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomain" />
               </node>
               <node concept="1adDum" id="nV" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -4297,7 +4297,7 @@
             <node concept="liA8E" id="oC" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="oD" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomain" />
               </node>
               <node concept="1adDum" id="oE" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -5283,7 +5283,7 @@
             <node concept="liA8E" id="ur" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="us" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomain" />
               </node>
               <node concept="1adDum" id="ut" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -5464,7 +5464,7 @@
       <property role="od$2w" value="false" />
       <property role="DiZV1" value="false" />
       <property role="2aFKle" value="false" />
-      <property role="TrG5h" value="createDescriptorForPredefinedDomen" />
+      <property role="TrG5h" value="createDescriptorForPredefinedDomain" />
       <node concept="3clFbS" id="vo" role="3clF47">
         <node concept="3cpWs8" id="vr" role="3cqZAp">
           <node concept="3cpWsn" id="vx" role="3cpWs9">
@@ -5479,7 +5479,7 @@
                   <property role="Xl_RC" value="DataDictionaryDsl" />
                 </node>
                 <node concept="Xl_RD" id="vA" role="37wK5m">
-                  <property role="Xl_RC" value="PredefinedDomen" />
+                  <property role="Xl_RC" value="PredefinedDomain" />
                 </node>
                 <node concept="1adDum" id="vB" role="37wK5m">
                   <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -5517,7 +5517,7 @@
             <node concept="liA8E" id="vM" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="vN" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.AbstractDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.AbstractDomain" />
               </node>
               <node concept="1adDum" id="vO" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -5577,7 +5577,7 @@
       <property role="od$2w" value="false" />
       <property role="DiZV1" value="false" />
       <property role="2aFKle" value="false" />
-      <property role="TrG5h" value="createDescriptorForSemanticDomen" />
+      <property role="TrG5h" value="createDescriptorForSemanticDomain" />
       <node concept="3clFbS" id="w2" role="3clF47">
         <node concept="3cpWs8" id="w5" role="3cqZAp">
           <node concept="3cpWsn" id="wc" role="3cpWs9">
@@ -5592,7 +5592,7 @@
                   <property role="Xl_RC" value="DataDictionaryDsl" />
                 </node>
                 <node concept="Xl_RD" id="wh" role="37wK5m">
-                  <property role="Xl_RC" value="SemanticDomen" />
+                  <property role="Xl_RC" value="SemanticDomain" />
                 </node>
                 <node concept="1adDum" id="wi" role="37wK5m">
                   <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -5628,7 +5628,7 @@
             <node concept="liA8E" id="wt" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="wu" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.AbstractDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.AbstractDomain" />
               </node>
               <node concept="1adDum" id="wv" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -5737,7 +5737,7 @@
       <property role="od$2w" value="false" />
       <property role="DiZV1" value="false" />
       <property role="2aFKle" value="false" />
-      <property role="TrG5h" value="createDescriptorForSemanticDomenDefinition" />
+      <property role="TrG5h" value="createDescriptorForSemanticDomainDefinition" />
       <node concept="3clFbS" id="wZ" role="3clF47">
         <node concept="3cpWs8" id="x2" role="3cqZAp">
           <node concept="3cpWsn" id="xa" role="3cpWs9">
@@ -5752,7 +5752,7 @@
                   <property role="Xl_RC" value="DataDictionaryDsl" />
                 </node>
                 <node concept="Xl_RD" id="xf" role="37wK5m">
-                  <property role="Xl_RC" value="SemanticDomenDefinition" />
+                  <property role="Xl_RC" value="SemanticDomainDefinition" />
                 </node>
                 <node concept="1adDum" id="xg" role="37wK5m">
                   <property role="1adDun" value="0x16d63821a9174aafL" />
@@ -6368,7 +6368,7 @@
             <node concept="liA8E" id="$T" role="2OqNvi">
               <ref role="37wK5l" to="bzg8:~ConceptDescriptorBuilder2.super_(java.lang.String,long,long,long):jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2" resolve="super_" />
               <node concept="Xl_RD" id="$U" role="37wK5m">
-                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomen" />
+                <property role="Xl_RC" value="DataDictionaryDsl.structure.PredefinedDomain" />
               </node>
               <node concept="1adDum" id="$V" role="37wK5m">
                 <property role="1adDun" value="0x16d63821a9174aafL" />

@@ -1,24 +1,12 @@
 Generated data dictionary forExample 1
 Start: semantic domens
-Name: Ocena, Domen: Integer, Constraint: between 5 and 10
-Name: JMBG, Domen: Text, Constraint: lenght =13
-Name: Prosek, Domen: Double, Constraint: >0
-Name: Povrsina, Domen: Double, Constraint: /
-Name: Test, Domen: Text, Constraint: /
+Name: Height, Domen: Double, Constraint: >0
+Name: Weight, Domen: Double, Constraint: >0
+Name: Mark, Domen: Double, Constraint: between 5 and 10
+Name: Birth date, Domen: Date, Constraint: before current date
 End: semantic domens
 Start: generated structures
-  StructureKupac:<Naziv preduzeca,Sediste,PIB,/Maticni broj,Sifra delatnosti,Ziro racun,Telefon/Field-10,Field-11,Ocena>
-  StructureStavke kataloga:[Redni broj,Sifra proizvoda,Jedinicna cena,Naziv proizvoda,[Opis proizvoda]Slika,[Cena]{JMBG}]
-  StructureName:/Field-1,/Field-2/Field-3/
-  Structureaa:<Field-1>
-  StructureNew name - :<Field-1>
-  StructureName6:[Field-1]
-  StructureStructure 10:<Field-1>
-  StructureStructure 9:<Field-1>
-  StructureStructure 11:<{<Field-1,Field-2>}>
-  StructureName10:<Field-1,Field-3,{<Field-3,Field-4>}>
-  Structuren/a:<{Field-1}>
-  StructureStructure 15:<Field-1,[Field-2,[Field-3]]{<Field-4,Field-5>}Field-6>
-  StructureStructure 13:<//Field-1/Field-2/Field-3>
-  StructureStructure 14:{<Field-1,Field-2>}
+  StructureStudent:<First name,Last name,Email,/Phone number,Mobile phone/Address,City,Index number,Date of birth,Height,Weight,{<Subject name,Subject mark,Date>}>
+  StructureExample:/Field-1,/Field-2/Field-3/
+  StructureOrderItem:<Number,Product name,Unit price,Quantity,Price,[Product description]>
 End: generated structures

@@ -2995,9 +2995,9 @@
         </node>
       </node>
       <node concept="39e2AG" id="g3" role="39e3Y0">
-        <ref role="39e2AK" to="7ppx:1oStdvpVh9_" resolve="SemanticDomenDefinition_TextGen" />
+        <ref role="39e2AK" to="7ppx:1oStdvpVh9_" resolve="SemanticDomainDefinition_TextGen" />
         <node concept="385nmt" id="gO" role="385vvn">
-          <property role="385vuF" value="SemanticDomenDefinition_TextGen" />
+          <property role="385vuF" value="SemanticDomainDefinition_TextGen" />
           <node concept="2$VJBW" id="gQ" role="385v07">
             <property role="2$VJBR" value="1601158137953194597" />
             <node concept="2x4n5u" id="gR" role="3iCydw">
@@ -3011,7 +3011,7 @@
           </node>
         </node>
         <node concept="39e2AT" id="gP" role="39e2AY">
-          <ref role="39e2AS" node="jX" resolve="SemanticDomenDefinition_TextGen" />
+          <ref role="39e2AS" node="jX" resolve="SemanticDomainDefinition_TextGen" />
         </node>
       </node>
       <node concept="39e2AG" id="g4" role="39e3Y0">
@@ -3546,7 +3546,7 @@
   </node>
   <node concept="312cEu" id="jX">
     <property role="1sVAO0" value="false" />
-    <property role="TrG5h" value="SemanticDomenDefinition_TextGen" />
+    <property role="TrG5h" value="SemanticDomainDefinition_TextGen" />
     <node concept="3Tm1VV" id="jY" role="1B3o_S">
       <node concept="cd27G" id="k2" role="lGtFl">
         <node concept="3u3nmq" id="k3" role="cd27D">
@@ -4993,14 +4993,14 @@
           </node>
           <node concept="3KbdKl" id="sh" role="3KbHQx">
             <node concept="1n$iZg" id="t5" role="3Kbmr1">
-              <property role="1n_iUB" value="SemanticDomenDefinition" />
+              <property role="1n_iUB" value="SemanticDomainDefinition" />
               <property role="1n_ezw" value="DataDictionaryDsl.structure.LanguageConceptSwitch" />
             </node>
             <node concept="3clFbS" id="t6" role="3Kbo56">
               <node concept="3cpWs6" id="t7" role="3cqZAp">
                 <node concept="2ShNRf" id="t8" role="3cqZAk">
                   <node concept="HV5vD" id="t9" role="2ShVmc">
-                    <ref role="HV5vE" node="jX" resolve="SemanticDomenDefinition_TextGen" />
+                    <ref role="HV5vE" node="jX" resolve="SemanticDomainDefinition_TextGen" />
                   </node>
                 </node>
               </node>

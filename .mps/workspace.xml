@@ -6,7 +6,76 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b4c68b-b770-4e37-95a7-8cb2838cd70a" name="Default Changelist" comment="" />
+    <list default="true" id="00b4c68b-b770-4e37-95a7-8cb2838cd70a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a$semanticDomenDefinitionsListHandler_r8s0uu_c5a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a$semanticDomenDefinitionsListHandler_r8s0uu_c5a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu$TMP_SubMenu_m077tv_a0$TMP_Action_m077tv_a0a$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu$TMP_SubMenu_m077tv_a0$TMP_Action_m077tv_a0a$Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a$constraintSingleRoleHandler_560l2i_k0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a$domenSingleRoleHandler_560l2i_g0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$Inline_Builder0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$Inline_Builder0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu$SMP_ReferenceScope_m55yh5_a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu$SMP_Subconcepts_m55yh5_b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/SemanticDomenDefinition_TextGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/behavior.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/editor.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/textGen.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/textGen.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/classes_gen/DataDictionaryDsl/sandbox/Example 1..dd" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/classes_gen/DataDictionaryDsl/sandbox/Example 1..dd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen.caches/DataDictionaryDsl/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen.caches/DataDictionaryDsl/sandbox/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen/DataDictionaryDsl/sandbox/Example 1..dd" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen/DataDictionaryDsl/sandbox/Example 1..dd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/behavior/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/behavior/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/structure/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomainDefinition_Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomainDefinition_EditorBuilder_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomen_Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomain_Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomain_EditorBuilder_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomain_SubstituteMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/SemanticDomenDefinition_TextGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/SemanticDomainDefinition_TextGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/trace.info" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +88,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="97816db0-e407-4460-adce-8760d31e604a/r:9c7363c2-2c6b-4f35-9501-eee5173a2ee2(TempModule97816db0-e407-4460-adce-8760d31e604a/TempModel_498841504261761)">
+            <model ref="778b8cde-9c33-4785-b228-5f32b30f923c/r:56ad41ac-2d93-4fac-8a2f-99dc2350a859(TempModule778b8cde-9c33-4785-b228-5f32b30f923c/TempModel_505729209450309)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -39,11 +108,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="1oStdvpVbI2">
-                <node concept="3balQm" id="1oStdvpVbI3" role="aymYE" />
-                <node concept="2Clz$F" id="1oStdvpVbI4" role="aymYO" />
-                <node concept="2_V_lH" id="1oStdvpVbI5" role="1PhJh3">
-                  <ref role="2_V_lI" node="1oStdvpVbI4" resolve="CommandHolder" />
+              <node concept="aymSD" id="2VeiafXMhtX">
+                <node concept="3balQm" id="2VeiafXMhtY" role="aymYE" />
+                <node concept="2Clz$F" id="2VeiafXMhtZ" role="aymYO" />
+                <node concept="2_V_lH" id="2VeiafXMhu0" role="1PhJh3">
+                  <ref role="2_V_lI" node="2VeiafXMhtZ" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -67,19 +136,115 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="mps://node://DataDictionaryDsl.sandbox/DataDictionaryDsl.sandbox/Example 1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="7" selection-start-column="7" selection-end-column="7" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Set">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="306">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="selectionStart" value="38" />
+                    <property name="hasNonTrivialSelection" value="true" />
+                    <property name="caretX" value="551" />
+                    <property name="selectionEnd" value="64" />
+                    <property name="caretXRelative" value="408" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="ReadOnlyModelAccessor_trik0f_a0">
+                      <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/3850440718038919072" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/3850440718038919072" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/3850440718038919071" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Aggregation">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="151" />
+                    <property name="caretX" value="271" />
+                    <property name="caretXRelative" value="88" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043116" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043117" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.actions/node_factories_Field">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="135" />
                     <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name">
-                      <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" />
+                      <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2336684179409703903" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -87,14 +252,14 @@
                 <transactionalProperties />
                 <foldable>
                   <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_structures">
-                      <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" />
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2336684179409703905" />
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -107,23 +272,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="previewDataDictionaryDsl.sandbox@0/Example 1..dd">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Date">
+        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.actions/node_factories_StructureDefinition">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="295" />
-                    <property name="caretXRelative" value="32" />
+                    <property name="caretX" value="135" />
+                    <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466152" />
+                      <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934094" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -132,13 +292,13 @@
                 <foldable>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466153" />
+                      <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934096" />
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -146,93 +306,6 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466152" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Double">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="311" />
-                    <property name="caretXRelative" value="48" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465929" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Integer">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="167" />
-                    <property name="caretXRelative" value="56" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_value">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466659" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466617" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466617" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466616" />
             </state>
           </provider>
         </entry>
@@ -245,26 +318,20 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="303" />
+                    <property name="caretX" value="223" />
                     <property name="caretXRelative" value="40" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645518" />
+                      <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/2336684179410823603" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645519" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -272,24 +339,24 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645518" />
+              <node node_ref="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/2336684179410823603" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Exclusive">
+        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/IAbstractStructure">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="376">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="335" />
-                    <property name="caretXRelative" value="72" />
+                    <property name="caretX" value="375" />
+                    <property name="caretXRelative" value="144" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216640382" />
+                      <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889158" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -297,14 +364,24 @@
                 <transactionalProperties />
                 <foldable>
                   <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216640383" />
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/7855282858432756083" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179410259167" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_6lfqqa_b0">
+                      <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889159" />
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -312,7 +389,7 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216640382" />
+              <node node_ref="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889158" />
             </state>
           </provider>
         </entry>
@@ -325,11 +402,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="415" />
-                    <property name="caretXRelative" value="152" />
+                    <property name="caretX" value="327" />
+                    <property name="caretXRelative" value="208" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215779709" />
+                    <cellInfo cellId="property_value">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038489057" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -338,59 +415,39 @@
                 <foldable>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215779710" />
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488490" />
                     </cellIdElement>
                   </collapsedElement>
-                </foldable>
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215779709" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/SemanticDomenDefinition">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="119" />
-                    <property name="caretXRelative" value="-8" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_yuehr3_c0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953622226" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194598" />
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488488" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488487" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038487660" />
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
                 <restoreAlways>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194598" />
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488488" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488487" />
                     </cellIdElement>
                   </collapsedElement>
                 </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -398,7 +455,7 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194597" />
+              <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718037729833" />
             </state>
           </provider>
         </entry>
@@ -407,15 +464,15 @@
         <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/DataDictionary">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="242">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="1328">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="111" />
-                    <property name="caretXRelative" value="8" />
+                    <property name="caretX" value="447" />
+                    <property name="caretXRelative" value="112" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_moyyqd_a0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194156" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411246904" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -424,24 +481,113 @@
                 <foldable>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215649660" />
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411260961" />
                     </cellIdElement>
                   </collapsedElement>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215651893" />
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411260957" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411249704" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411249702" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411355963" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411355959" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731008426" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731008422" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731164253" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731164251" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420639424" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420639420" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411260955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411249701" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411355957" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731008420" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411246913" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731164250" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731091999" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_zg23bd_a">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420639418" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0">
+                      <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420629353" />
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0">
-                      <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215651893" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
+                <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -449,12 +595,67 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215649659" />
+              <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411246904" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mps://node://DataDictionaryDsl.sandbox/DataDictionaryDsl.sandbox/Example 1">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="147">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="437" />
+                    <property name="caretXRelative" value="64" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_description">
+                      <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="refNodeList_structures">
+                      <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="refNodeList_structures">
+                      <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </restoreAlways>
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
@@ -550,17 +751,162 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystem">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/behavior.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/editor.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataDictionaryDsl" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/actions.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/textGen.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataDictionaryDsl" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/constraints.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -569,17 +915,31 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataDictionaryDsl" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="510907218761675639" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="FileSystem" />
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -594,12 +954,13 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Valentina\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3161876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33131617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -613,15 +974,15 @@
       <window_info anchor="bottom" id="Migration" order="9" />
       <window_info anchor="bottom" id="Menu Trace" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.51059" side_tool="true" visible="true" weight="0.3665087" />
       <window_info anchor="bottom" id="Classpath Explorer" order="13" />
       <window_info anchor="bottom" id="Usages" order="14" weight="0.3286908" />
       <window_info anchor="bottom" id="Node Explorer" order="15" sideWeight="0.37670198" weight="0.51026857" />
       <window_info anchor="bottom" id="Module Dependencies" order="16" />
-      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="bottom" id="Version Control" order="17" sideWeight="0.49848714" weight="0.33175355" />
       <window_info anchor="bottom" id="Generation Tracer" order="18" />
       <window_info anchor="bottom" id="Cell Explorer" order="19" />
-      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.49016643" visible="true" weight="0.3665087" />
+      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.48940998" visible="true" weight="0.3665087" />
       <window_info anchor="bottom" id="Typechecker State" order="21" />
       <window_info anchor="bottom" id="Console" order="22" />
       <window_info anchor="bottom" id="RefactoringView" order="23" sideWeight="0.49924356" weight="0.328594" />
@@ -679,6 +1040,46 @@
     <default_view_options>
       <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
     </default_view_options>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.intentions/&lt;no name&gt;[ParameterizedIntentionDeclaration]" />
@@ -760,43 +1161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.actions/node_factories_StructureDefinition">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="135" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934094" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934096" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/547209407214601046" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/ISpecialization">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -838,70 +1202,6 @@
     </entry>
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/SemanticDefinition" />
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.typesystem/&lt;no name&gt;[TypesystemQuickFix]" />
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/SemanticDomen">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="75" />
-                <property name="caretXRelative" value="60" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a">
-                  <node node_reference="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009394" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/2336684179411078682" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009394" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/AbstractDomen">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="327" />
-                <property name="caretXRelative" value="108" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name">
-                  <node node_reference="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009397" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/510907218762086861" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009397" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Constraint">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -931,54 +1231,6 @@
             <enabledHints />
           </inspectorMemento>
           <node node_ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/6944317878609548741" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.typesystem/quick_fix_more_than_one_element_in_set">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="303" />
-                <property name="caretXRelative" value="48" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="VDNCC_property_name">
-                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420976817" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420967485" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420967622" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420967485" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/1096112307853000357" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
         </state>
       </provider>
     </entry>
@@ -1030,49 +1282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/IAbstractElement">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="359" />
-                <property name="caretXRelative" value="128" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409996402" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179410259092" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_6lfqqa_b0">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409996403" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/6944317878609990243" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409996402" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://jetbrains.mps.lang.core/jetbrains.mps.lang.core.structure/INamedConcept">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1116,54 +1325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/IAbstractStructure">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="410">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="375" />
-                <property name="caretXRelative" value="144" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889158" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/7855282858432756083" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179410259167" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_6lfqqa_b0">
-                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889159" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/3850440718039222160" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889158" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://jetbrains.mps.lang.core/jetbrains.mps.lang.core.structure/PropertyAttribute">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1198,146 +1359,6 @@
     </entry>
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/&lt;no name&gt;[ConceptDeclaration]" />
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Varchar" />
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/FieldDefinition">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="367" />
-                <property name="caretXRelative" value="120" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020785" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216637497" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020785" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Aggregation">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="351" />
-                <property name="caretXRelative" value="88" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216629632" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216629633" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466153" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216629632" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Set">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="287" />
-                <property name="caretXRelative" value="24" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216637497" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216637498" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/3850440718039222160" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216637497" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/PredefinedDomen">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="31" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="emptyPropertiesPlaceHolder">
-                  <node node_reference="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009400" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/1096112307853000328" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009400" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Text">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1426,18 +1447,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/NonExclusive">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Date">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="127" />
-                <property name="caretXRelative" value="-8" />
+                <property name="caretX" value="295" />
+                <property name="caretXRelative" value="32" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_yuehr3_c0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645201" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466152" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1446,19 +1470,13 @@
             <foldable>
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216642396" />
+                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466153" />
                 </cellIdElement>
               </collapsedElement>
             </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216642396" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
+            <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953622226" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009397" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1466,7 +1484,45 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216642395" />
+          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Double">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="311" />
+                <property name="caretXRelative" value="48" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465929" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020845" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928" />
         </state>
       </provider>
     </entry>
@@ -1502,7 +1558,7 @@
               </collapsedElement>
             </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020845" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1514,33 +1570,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Field">
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/AbstractDomen">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="303" />
-                <property name="caretXRelative" value="40" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645518" />
+                <cellInfo cellId="emptyChildrenPlaceHolder">
+                  <node node_reference="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009397" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645519" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179410415489" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1548,208 +1598,14 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216645518" />
+          <node node_ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009397" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Exclusive">
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/PredefinedDomen">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="335" />
-                <property name="caretXRelative" value="72" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216640382" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216640383" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407216640382" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Double">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="311" />
-                <property name="caretXRelative" value="48" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465929" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953465928" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Date">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="295" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466152" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466153" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953466152" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/DataDictionary">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="242">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="111" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_moyyqd_a0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194156" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215649660" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215651893" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215651893" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215649659" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/StructureDefinition">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="415" />
-                <property name="caretXRelative" value="152" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215779709" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215779710" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/547209407215779709" />
+          <node />
         </state>
       </provider>
     </entry>
@@ -1760,11 +1616,141 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="119" />
-                <property name="caretXRelative" value="-8" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_yuehr3_c0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953622226" />
+                <cellInfo cellId="Constant_cth9w3_d0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420297646" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/510907218762086861" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420297646" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/SemanticDomen">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="359" />
+                <property name="caretXRelative" value="112" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020845" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/1587350356733836795" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020845" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Exclusive">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="0" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="63" />
+                <property name="selectionEnd" value="8" />
+                <property name="caretXRelative" value="48" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_tg6zfx_a0a">
+                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/1587350356733836795" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/1587350356733931226" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/1587350356733836795" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/NonExclusive">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="327" />
+                <property name="caretXRelative" value="96" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/1587350356733920505" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043116" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/1587350356733920502" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.typesystem/quick_fix_more_than_one_element_in_set">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="25">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="223" />
+                <property name="caretXRelative" value="48" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="VDNCC_property_name">
+                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420976817" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1773,19 +1759,24 @@
             <foldable>
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194598" />
+                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420967485" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420967622" />
                 </cellIdElement>
               </collapsedElement>
             </foldable>
             <restoreAlways>
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_trik0f_b0">
-                  <node node_reference="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194598" />
+                  <node node_reference="r:98240634-8132-4253-b351-9c7ee2a54fa8(DataDictionaryDsl.typesystem)/4369699962420967485" />
                 </cellIdElement>
               </collapsedElement>
             </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2336684179409703903" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1793,22 +1784,547 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:7b787e67-a526-4f0f-bfd8-dc7e4c430be3(DataDictionaryDsl.textGen)/1601158137953194597" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/FieldDefinition">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a">
+                  <node node_reference="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009386" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009386" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:bb0e4ed0-51eb-4179-aa62-896788d45e4f(DataDictionaryDsl.structure)/1587350356734009386" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/IAbstractElement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="359" />
+                <property name="caretXRelative" value="128" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409996402" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179410259092" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_6lfqqa_b0">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409996403" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/8353579569210541118" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409996402" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/DataDictionary">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="1328">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="447" />
+                <property name="caretXRelative" value="112" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411246904" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411260961" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411260957" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411249704" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411249702" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411355963" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411355959" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731008426" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731008422" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731164253" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731164251" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420639424" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420639420" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411260955" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411249701" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411355957" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731008420" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411246913" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731164250" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356731091999" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420639418" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420629353" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/2336684179411246904" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/IAbstractStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="376">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="375" />
+                <property name="caretXRelative" value="144" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889158" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/7855282858432756083" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179410259167" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_6lfqqa_b0">
+                  <node node_reference="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889159" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:993dfb72-d587-45bb-9ce4-d35c760b0d8d(DataDictionaryDsl.behavior)/2336684179409889158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/StructureDefinition">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="327" />
+                <property name="caretXRelative" value="208" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038489057" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488490" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488488" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488487" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038487660" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488488" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_zg23bd_a">
+                  <node node_reference="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718038488487" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/3850440718037729833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.actions/node_factories_Field">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="135" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2336684179409703903" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2336684179409703905" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.actions/node_factories_StructureDefinition">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="135" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934094" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934096" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Set">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="38" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="551" />
+                <property name="selectionEnd" value="64" />
+                <property name="caretXRelative" value="408" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReadOnlyModelAccessor_trik0f_a0">
+                  <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/3850440718038919072" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/3850440718038919072" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/3850440718038919071" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Field">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="223" />
+                <property name="caretXRelative" value="40" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/2336684179410823603" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/2336684179410823603" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.structure/Aggregation">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="271" />
+                <property name="caretXRelative" value="88" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043116" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043117" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints)/1096112307853043116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="mps://node://DataDictionaryDsl.sandbox/DataDictionaryDsl.sandbox/Example 1">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="306">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="147">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="151" />
-                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="437" />
+                <property name="caretXRelative" value="64" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" />
+                <cellInfo cellId="property_description">
+                  <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1821,9 +2337,15 @@
                 </cellIdElement>
               </collapsedElement>
             </foldable>
-            <restoreAlways />
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_structures">
+                  <node node_reference="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/510907218761675639" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox)/3372713040122173366" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />

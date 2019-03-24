@@ -22,10 +22,10 @@
       <unit at="66,0,87,0" name="DataDictionaryDsl.editor.FieldDefinition_SubstituteMenu$SMP_Subconcepts_elsmph_b" />
       <unit at="24,0,88,0" name="DataDictionaryDsl.editor.FieldDefinition_SubstituteMenu" />
     </file>
-    <file name="SemanticDomen_SubstituteMenu.java">
-      <unit at="47,0,66,0" name="DataDictionaryDsl.editor.SemanticDomen_SubstituteMenu$SMP_ReferenceScope_m55yh5_a" />
-      <unit at="66,0,87,0" name="DataDictionaryDsl.editor.SemanticDomen_SubstituteMenu$SMP_Subconcepts_m55yh5_b" />
-      <unit at="24,0,88,0" name="DataDictionaryDsl.editor.SemanticDomen_SubstituteMenu" />
+    <file name="SemanticDomain_SubstituteMenu.java">
+      <unit at="47,0,66,0" name="DataDictionaryDsl.editor.SemanticDomain_SubstituteMenu$SMP_ReferenceScope_qrk353_a" />
+      <unit at="66,0,87,0" name="DataDictionaryDsl.editor.SemanticDomain_SubstituteMenu$SMP_Subconcepts_qrk353_b" />
+      <unit at="24,0,88,0" name="DataDictionaryDsl.editor.SemanticDomain_SubstituteMenu" />
     </file>
   </root>
   <root nodeRef="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356730879160">
@@ -585,18 +585,18 @@
     </file>
   </root>
   <root nodeRef="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020845">
-    <file name="SemanticDomen_Editor.java">
-      <node id="1587350356734020845" at="11,79,12,79" concept="7" />
+    <file name="SemanticDomain_Editor.java">
+      <node id="1587350356734020845" at="11,79,12,80" concept="7" />
       <node id="1587350356734020845" at="11,0,14,0" concept="5" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-      <scope id="1587350356734020845" at="11,79,12,79" />
+      <scope id="1587350356734020845" at="11,79,12,80" />
       <scope id="1587350356734020845" at="11,0,14,0">
         <var name="editorContext" id="1587350356734020845" />
         <var name="node" id="1587350356734020845" />
       </scope>
-      <unit id="1587350356734020845" at="10,0,15,0" name="DataDictionaryDsl.editor.SemanticDomen_Editor" />
+      <unit id="1587350356734020845" at="10,0,15,0" name="DataDictionaryDsl.editor.SemanticDomain_Editor" />
     </file>
-    <file name="SemanticDomen_EditorBuilder_a.java">
-      <node id="1587350356734020845" at="46,93,47,19" concept="10" />
+    <file name="SemanticDomain_EditorBuilder_a.java">
+      <node id="1587350356734020845" at="46,94,47,19" concept="10" />
       <node id="1587350356734020845" at="47,19,48,18" concept="1" />
       <node id="1587350356734020845" at="53,26,54,18" concept="7" />
       <node id="1587350356734020845" at="57,39,58,32" concept="7" />
@@ -607,7 +607,7 @@
       <node id="4369699962420297831" at="65,31,66,48" concept="1" />
       <node id="1587350356734020845" at="66,48,67,22" concept="7" />
       <node id="1587350356734020845" at="69,40,70,186" concept="6" />
-      <node id="1587350356734020845" at="74,39,75,125" concept="7" />
+      <node id="1587350356734020845" at="74,39,75,126" concept="7" />
       <node id="1587350356734020845" at="77,169,78,60" concept="1" />
       <node id="1587350356734020845" at="78,60,79,48" concept="1" />
       <node id="1587350356734020845" at="79,48,80,58" concept="1" />
@@ -660,7 +660,7 @@
       <node id="1587350356734020845" at="102,0,105,0" concept="5" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
       <node id="4369699962420297832" at="123,0,126,0" concept="5" trace="createCell#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
       <node id="4369699962420297837" at="150,0,153,0" concept="5" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
-      <node id="1587350356734020845" at="46,0,50,0" concept="0" trace="SemanticDomen_EditorBuilder_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="1587350356734020845" at="46,0,50,0" concept="0" trace="SemanticDomain_EditorBuilder_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
       <node id="1587350356734020845" at="94,0,98,5" concept="4" />
       <node id="1587350356734020845" at="51,0,56,0" concept="5" trace="getNode#()Lorg/jetbrains/mps/openapi/model/SNode;" />
       <node id="1587350356734020845" at="72,72,77,169" concept="6" />
@@ -679,13 +679,13 @@
       <node id="1587350356734020845" at="69,0,112,0" concept="5" trace="createRefCell_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
       <scope id="1587350356734020845" at="53,26,54,18" />
       <scope id="1587350356734020845" at="57,39,58,32" />
-      <scope id="1587350356734020845" at="74,39,75,125" />
+      <scope id="1587350356734020845" at="74,39,75,126" />
       <scope id="1587350356734020845" at="102,39,103,113" />
       <scope id="4369699962420297832" at="123,41,124,32" />
       <scope id="4369699962420297832" at="129,28,130,20" />
       <scope id="4369699962420297837" at="150,43,151,120" />
       <scope id="4369699962420297837" at="159,17,160,42" />
-      <scope id="1587350356734020845" at="46,93,48,18" />
+      <scope id="1587350356734020845" at="46,94,48,18" />
       <scope id="1587350356734020845" at="95,40,97,172" />
       <scope id="1587350356734020845" at="106,73,108,145">
         <var name="manager" id="1587350356734020845" />
@@ -747,12 +747,12 @@
         <var name="referenceLink" id="1587350356734020845" />
       </scope>
       <scope id="1587350356734020845" at="69,0,112,0" />
-      <unit id="1587350356734020845" at="73,74,77,9" name="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a$1$1" />
-      <unit id="1587350356734020845" at="101,102,105,5" name="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a$2" />
-      <unit id="4369699962420297837" at="149,104,153,9" name="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a$Inline_Builder0$1" />
-      <unit id="1587350356734020845" at="71,42,90,5" name="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a$1" />
-      <unit id="4369699962420297832" at="112,0,164,0" name="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a$Inline_Builder0" />
-      <unit id="1587350356734020845" at="42,0,165,0" name="DataDictionaryDsl.editor.SemanticDomen_EditorBuilder_a" />
+      <unit id="1587350356734020845" at="73,74,77,9" name="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a$1$1" />
+      <unit id="1587350356734020845" at="101,102,105,5" name="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a$2" />
+      <unit id="4369699962420297837" at="149,104,153,9" name="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a$Inline_Builder0$1" />
+      <unit id="1587350356734020845" at="71,42,90,5" name="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a$1" />
+      <unit id="4369699962420297832" at="112,0,164,0" name="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a$Inline_Builder0" />
+      <unit id="1587350356734020845" at="42,0,165,0" name="DataDictionaryDsl.editor.SemanticDomain_EditorBuilder_a" />
     </file>
   </root>
   <root nodeRef="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/1587350356734020858">
@@ -972,9 +972,9 @@
       <node id="4369699962420639418" at="117,57,118,29" concept="1" />
       <node id="4369699962420639418" at="120,61,121,39" concept="1" />
       <node id="4369699962420639995" at="125,52,126,45" concept="7" />
-      <node id="4369699962420646405" at="130,54,131,224" concept="6" />
-      <node id="4369699962420646504" at="131,224,132,368" concept="1" />
-      <node id="4369699962420651433" at="132,368,133,368" concept="1" />
+      <node id="4369699962420646405" at="130,54,131,225" concept="6" />
+      <node id="4369699962420646504" at="131,225,132,369" concept="1" />
+      <node id="4369699962420651433" at="132,369,133,368" concept="1" />
       <node id="4369699962420657028" at="133,368,134,268" concept="1" />
       <node id="4369699962420639418" at="141,51,142,39" concept="7" />
       <node id="1587350356731095552" at="150,66,151,22" concept="7" />
@@ -1501,7 +1501,7 @@
       <node id="3850440718038488487" at="109,0,110,0" concept="2" trace="myEditorMenuTraceInfo" />
       <node id="3850440718038488487" at="110,57,111,29" concept="1" />
       <node id="3850440718038488487" at="113,61,114,39" concept="1" />
-      <node id="3850440718038489058" at="118,52,119,35" concept="7" />
+      <node id="3850440718038489058" at="118,52,119,46" concept="7" />
       <node id="3850440718037770955" at="123,54,124,116" concept="1" />
       <node id="3850440718038488487" at="131,51,132,39" concept="7" />
       <node id="3850440718037857438" at="50,156,53,5" concept="4" />
@@ -1539,7 +1539,7 @@
       <scope id="3850440718038488487" at="101,19,102,54" />
       <scope id="3850440718038488487" at="110,57,111,29" />
       <scope id="3850440718038488487" at="113,61,114,39" />
-      <scope id="3850440718038488489" at="118,52,119,35" />
+      <scope id="3850440718038488489" at="118,52,119,46" />
       <scope id="3850440718038488491" at="123,54,124,116" />
       <scope id="3850440718038488487" at="131,51,132,39" />
       <scope id="3850440718038488487" at="93,0,95,22">
@@ -1642,18 +1642,18 @@
     </file>
   </root>
   <root nodeRef="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/4369699962420297646">
-    <file name="SemanticDomenDefinition_Editor.java">
-      <node id="4369699962420297646" at="11,79,12,89" concept="7" />
+    <file name="SemanticDomainDefinition_Editor.java">
+      <node id="4369699962420297646" at="11,79,12,90" concept="7" />
       <node id="4369699962420297646" at="11,0,14,0" concept="5" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-      <scope id="4369699962420297646" at="11,79,12,89" />
+      <scope id="4369699962420297646" at="11,79,12,90" />
       <scope id="4369699962420297646" at="11,0,14,0">
         <var name="editorContext" id="4369699962420297646" />
         <var name="node" id="4369699962420297646" />
       </scope>
-      <unit id="4369699962420297646" at="10,0,15,0" name="DataDictionaryDsl.editor.SemanticDomenDefinition_Editor" />
+      <unit id="4369699962420297646" at="10,0,15,0" name="DataDictionaryDsl.editor.SemanticDomainDefinition_Editor" />
     </file>
-    <file name="SemanticDomenDefinition_EditorBuilder_a.java">
-      <node id="4369699962420297646" at="43,103,44,19" concept="10" />
+    <file name="SemanticDomainDefinition_EditorBuilder_a.java">
+      <node id="4369699962420297646" at="43,104,44,19" concept="10" />
       <node id="4369699962420297646" at="44,19,45,18" concept="1" />
       <node id="4369699962420297646" at="50,26,51,18" concept="7" />
       <node id="4369699962420297646" at="54,39,55,32" concept="7" />
@@ -1709,8 +1709,8 @@
       <node id="4369699962420297734" at="128,94,129,47" concept="1" />
       <node id="4369699962420297734" at="129,47,130,34" concept="1" />
       <node id="4369699962420297734" at="130,34,131,22" concept="7" />
-      <node id="4369699962420297646" at="133,40,134,275" concept="6" />
-      <node id="4369699962420297646" at="134,275,135,33" concept="7" />
+      <node id="4369699962420297646" at="133,40,134,276" concept="6" />
+      <node id="4369699962420297646" at="134,276,135,33" concept="7" />
       <node id="4369699962420297646" at="141,119,142,38" concept="10" />
       <node id="4369699962420297646" at="142,38,143,25" concept="1" />
       <node id="4369699962420297646" at="148,28,149,20" concept="7" />
@@ -1742,8 +1742,8 @@
       <node id="4369699962420297794" at="201,94,202,47" concept="1" />
       <node id="4369699962420297794" at="202,47,203,34" concept="1" />
       <node id="4369699962420297794" at="203,34,204,22" concept="7" />
-      <node id="4369699962420297646" at="206,40,207,285" concept="6" />
-      <node id="4369699962420297646" at="207,285,208,33" concept="7" />
+      <node id="4369699962420297646" at="206,40,207,286" concept="6" />
+      <node id="4369699962420297646" at="207,286,208,33" concept="7" />
       <node id="4369699962420297646" at="214,124,215,38" concept="10" />
       <node id="4369699962420297646" at="215,38,216,25" concept="1" />
       <node id="4369699962420297646" at="221,28,222,20" concept="7" />
@@ -1774,11 +1774,11 @@
       <node id="4369699962420297646" at="235,87,238,7" concept="4" />
       <node id="4369699962420297646" at="238,7,241,7" concept="4" />
       <node id="4369699962420297646" at="257,0,260,0" concept="5" trace="getNoTargetText#()Ljava/lang/String;" />
-      <node id="4369699962420297646" at="43,0,47,0" concept="0" trace="SemanticDomenDefinition_EditorBuilder_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="4369699962420297646" at="43,0,47,0" concept="0" trace="SemanticDomainDefinition_EditorBuilder_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
       <node id="4369699962420297646" at="133,0,137,0" concept="5" trace="createRefNode_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-      <node id="4369699962420297646" at="141,0,145,0" concept="0" trace="domenSingleRoleHandler_560l2i_g0#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SContainmentLink;Ljetbrains/mps/openapi/editor/EditorContext;)V" />
+      <node id="4369699962420297646" at="141,0,145,0" concept="0" trace="domenSingleRoleHandler_7hnofb_g0#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SContainmentLink;Ljetbrains/mps/openapi/editor/EditorContext;)V" />
       <node id="4369699962420297646" at="206,0,210,0" concept="5" trace="createRefNode_1#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-      <node id="4369699962420297646" at="214,0,218,0" concept="0" trace="constraintSingleRoleHandler_560l2i_k0#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SContainmentLink;Ljetbrains/mps/openapi/editor/EditorContext;)V" />
+      <node id="4369699962420297646" at="214,0,218,0" concept="0" trace="constraintSingleRoleHandler_7hnofb_k0#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SContainmentLink;Ljetbrains/mps/openapi/editor/EditorContext;)V" />
       <node id="4369699962420297646" at="48,0,53,0" concept="5" trace="getNode#()Lorg/jetbrains/mps/openapi/model/SNode;" />
       <node id="4369699962420297658" at="100,306,105,9" concept="6" />
       <node id="4369699962420297658" at="105,9,110,24" concept="4" />
@@ -1817,7 +1817,7 @@
       <scope id="4369699962420297646" at="239,42,240,165" />
       <scope id="4369699962420297646" at="253,17,254,42" />
       <scope id="4369699962420297646" at="257,40,258,31" />
-      <scope id="4369699962420297646" at="43,103,45,18" />
+      <scope id="4369699962420297646" at="43,104,45,18" />
       <scope id="4369699962420297658" at="106,74,108,145">
         <var name="manager" id="4369699962420297658" />
       </scope>
@@ -1932,10 +1932,10 @@
       </scope>
       <scope id="4369699962420297658" at="88,41,113,5" />
       <scope id="4369699962420297658" at="88,0,115,0" />
-      <unit id="4369699962420297658" at="101,102,105,7" name="DataDictionaryDsl.editor.SemanticDomenDefinition_EditorBuilder_a$1" />
-      <unit id="4369699962420297646" at="137,0,188,0" name="DataDictionaryDsl.editor.SemanticDomenDefinition_EditorBuilder_a$domenSingleRoleHandler_560l2i_g0" />
-      <unit id="4369699962420297646" at="210,0,261,0" name="DataDictionaryDsl.editor.SemanticDomenDefinition_EditorBuilder_a$constraintSingleRoleHandler_560l2i_k0" />
-      <unit id="4369699962420297646" at="39,0,262,0" name="DataDictionaryDsl.editor.SemanticDomenDefinition_EditorBuilder_a" />
+      <unit id="4369699962420297658" at="101,102,105,7" name="DataDictionaryDsl.editor.SemanticDomainDefinition_EditorBuilder_a$1" />
+      <unit id="4369699962420297646" at="137,0,188,0" name="DataDictionaryDsl.editor.SemanticDomainDefinition_EditorBuilder_a$domenSingleRoleHandler_7hnofb_g0" />
+      <unit id="4369699962420297646" at="210,0,261,0" name="DataDictionaryDsl.editor.SemanticDomainDefinition_EditorBuilder_a$constraintSingleRoleHandler_7hnofb_k0" />
+      <unit id="4369699962420297646" at="39,0,262,0" name="DataDictionaryDsl.editor.SemanticDomainDefinition_EditorBuilder_a" />
     </file>
   </root>
   <root nodeRef="r:3212af48-7c85-44ad-bc02-d0d7b8636faf(DataDictionaryDsl.editor)/6944317878609596875">
@@ -2186,7 +2186,7 @@
       <node id="8353579569210499155" at="332,28,333,25" concept="1" />
       <node id="8353579569210499155" at="337,28,338,20" concept="7" />
       <node id="8353579569210499155" at="340,40,341,163" concept="7" />
-      <node id="8353579569210499155" at="343,48,344,161" concept="7" />
+      <node id="8353579569210499155" at="343,48,344,162" concept="7" />
       <node id="8353579569210499155" at="347,57,348,83" concept="6" />
       <node id="8353579569210499155" at="348,83,349,65" concept="1" />
       <node id="8353579569210499155" at="349,65,350,25" concept="7" />
@@ -2348,7 +2348,7 @@
       <scope id="2336684179409484305" at="285,44,286,46" />
       <scope id="8353579569210499155" at="337,28,338,20" />
       <scope id="8353579569210499155" at="340,40,341,163" />
-      <scope id="8353579569210499155" at="343,48,344,161" />
+      <scope id="8353579569210499155" at="343,48,344,162" />
       <scope id="8353579569210499155" at="361,17,362,42" />
       <scope id="8353579569210499155" at="372,122,373,146" />
       <scope id="8353579569210499155" at="403,28,404,20" />

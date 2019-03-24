@@ -1,4 +1,11 @@
 Generated data dictionary forExample 1
+Start: semantic domens
+Name: Ocena, Domen: Integer, Constraint: between 5 and 10
+Name: JMBG, Domen: Text, Constraint: lenght =13
+Name: Prosek, Domen: Double, Constraint: >0
+Name: Povrsina, Domen: Double, Constraint: /
+Name: Test, Domen: Text, Constraint: /
+End: semantic domens
 Start: generated structures
   StructureKupac:<Naziv preduzeca,Sediste,PIB,/Maticni broj,Sifra delatnosti,Ziro racun,Telefon/Field-10,Field-11,Ocena>
   StructureStavke kataloga:[Redni broj,Sifra proizvoda,Jedinicna cena,Naziv proizvoda,[Opis proizvoda]Slika,[Cena]{JMBG}]

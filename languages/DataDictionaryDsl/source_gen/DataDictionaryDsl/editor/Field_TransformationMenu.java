@@ -116,7 +116,7 @@ public class Field_TransformationMenu extends TransformationMenuBase {
         @Nullable
         @Override
         public String getLabelText(String pattern) {
-          return "Generate fields";
+          return "Generate fields definition";
         }
 
         @Override

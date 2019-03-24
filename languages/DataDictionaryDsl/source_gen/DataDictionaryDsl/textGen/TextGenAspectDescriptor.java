@@ -40,8 +40,8 @@ public class TextGenAspectDescriptor extends TextGenAspectBase {
         return new Integer_TextGen();
       case LanguageConceptSwitch.NonExclusive:
         return new NonExclusive_TextGen();
-      case LanguageConceptSwitch.SemanticDomenDefinition:
-        return new SemanticDomenDefinition_TextGen();
+      case LanguageConceptSwitch.SemanticDomainDefinition:
+        return new SemanticDomainDefinition_TextGen();
       case LanguageConceptSwitch.Set:
         return new Set_TextGen();
       case LanguageConceptSwitch.StructureDefinition:

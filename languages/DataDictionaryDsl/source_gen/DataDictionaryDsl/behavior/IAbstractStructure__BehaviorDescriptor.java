@@ -55,7 +55,7 @@ public final class IAbstractStructure__BehaviorDescriptor extends BaseBHDescript
         SNode field = (SNode) element;
         SNode fieldDefinition = SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd4338602aL, "DataDictionaryDsl.structure.FieldDefinition"));
         SLinkOperations.setTarget(fieldDefinition, MetaAdapterFactory.getReferenceLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd4338602aL, 0x160766bd4338602bL, "field"), field);
-        SLinkOperations.setTarget(fieldDefinition, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd4338602aL, 0x160766bd4338604bL, "domen"), SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386035L, "DataDictionaryDsl.structure.AbstractDomen")));
+        SLinkOperations.setTarget(fieldDefinition, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd4338602aL, 0x160766bd4338604bL, "domen"), SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd43386035L, "DataDictionaryDsl.structure.AbstractDomain")));
         SLinkOperations.setTarget(fieldDefinition, MetaAdapterFactory.getContainmentLink(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x160766bd4338602aL, 0x605f2c5169ea95c8L, "constraint"), SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x16d63821a9174aafL, 0xa85f305cd4a0013fL, 0x605f2c5169ea95c5L, "DataDictionaryDsl.structure.Constraint")));
         ListSequence.fromList(fieldDefinitions).addElement(fieldDefinition);
       } else {
