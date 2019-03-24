@@ -7,74 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00b4c68b-b770-4e37-95a7-8cb2838cd70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/behavior/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a$semanticDomenDefinitionsListHandler_r8s0uu_c5a.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a$semanticDomenDefinitionsListHandler_r8s0uu_c5a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu$TMP_SubMenu_m077tv_a0$TMP_Action_m077tv_a0a$Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu$TMP_SubMenu_m077tv_a0$TMP_Action_m077tv_a0a$Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a$constraintSingleRoleHandler_560l2i_k0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a$domenSingleRoleHandler_560l2i_g0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$Inline_Builder0$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a$Inline_Builder0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu$SMP_ReferenceScope_m55yh5_a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu$SMP_Subconcepts_m55yh5_b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/editor/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/structure/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/SemanticDomenDefinition_TextGen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/classes_gen/DataDictionaryDsl/textGen/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/behavior.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/editor.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/structure.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/textGen.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/models/textGen.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/classes_gen/DataDictionaryDsl/sandbox/Example 1..dd" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/classes_gen/DataDictionaryDsl/sandbox/Example 1..dd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen.caches/DataDictionaryDsl/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen.caches/DataDictionaryDsl/sandbox/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen/DataDictionaryDsl/sandbox/Example 1..dd" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/sandbox/source_gen/DataDictionaryDsl/sandbox/Example 1..dd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/behavior/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/behavior/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/editor/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/structure/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen.caches/DataDictionaryDsl/textGen/generated" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/IAbstractStructure__BehaviorDescriptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/behavior/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_EditorBuilder_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/DataDictionary_TransformationMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomainDefinition_Editor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomenDefinition_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomainDefinition_EditorBuilder_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomen_Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomain_Editor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomen_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomain_EditorBuilder_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomen_SubstituteMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/SemanticDomain_SubstituteMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/editor/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/LanguageConceptSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/StructureAspectDescriptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/structure/trace.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/SemanticDomenDefinition_TextGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/SemanticDomainDefinition_TextGen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/TextGenAspectDescriptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/DataDictionaryDsl/source_gen/DataDictionaryDsl/textGen/trace.info" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,12 +70,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="7" selection-start-column="7" selection-end-column="7" />
+              <first_editor relative-caret-position="153">
+                <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -600,11 +534,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://DataDictionaryDsl.sandbox/DataDictionaryDsl.sandbox/Example 1">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="147">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
@@ -788,7 +722,29 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataDictionaryDsl" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/actions.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -844,7 +800,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/actions.mps]" />
+              <option name="myItemId" value="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/constraints.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -868,45 +824,23 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataDictionaryDsl" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:c6345cb4-cea1-40a8-9a68-273f0f36d7f2(DataDictionaryDsl.sandbox) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/sandbox/models/DataDictionaryDsl.sandbox.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="16d63821-a917-4aaf-a85f-305cd4a0013f(DataDictionaryDsl)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:f39ea71e-22ef-46eb-9ddb-f01de8762e8e(DataDictionaryDsl.constraints) in IdeaFile[file://C:/Users/Valentina/Desktop/FON/Soft zahtevi/Final/DataDictionary/languages/DataDictionaryDsl/models/constraints.mps]" />
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4c5277dc-9d92-42f7-b29d-0beee05fc586" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -1080,6 +1014,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added data dictionary example. Refactoring." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added data dictionary example. Refactoring." />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://DataDictionaryDsl/DataDictionaryDsl.intentions/&lt;no name&gt;[ParameterizedIntentionDeclaration]" />
@@ -2296,27 +2234,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://DataDictionaryDsl.sandbox/DataDictionaryDsl.sandbox/Example 1">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="147">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
@@ -2353,6 +2274,23 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
